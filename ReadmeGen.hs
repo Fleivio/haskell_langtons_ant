@@ -13,7 +13,7 @@ writeRec :: String -> IO String
 writeRec arq = do
     dirs <- listDirectory arq
     let (imgs', childs') = filterImgsDirs dirs
-        childs = ((arq++"/")++) <$> childs'
+        childs = ((arq++"/")++) <$> sort childs'
         imgs = ((arq++"/")++) <$> sort imgs'
         acc = writeGroup arq imgs
     cRes <- sequence (writeRec <$> childs) 
@@ -22,16 +22,17 @@ writeRec arq = do
 writeGroup :: String -> [String] -> String
 writeGroup gName imgs = 
     "#### " ++ gName ++ 
-    "\n<p float=\"left\">" ++
-    concat (writeImgCell <$> imgs) ++
+    "\n<p float=\"left\">\n" ++
+     concat (writeImgCell <$> imgs) ++
     "</p>\n\n"
 
 writeImgCell :: String -> String
 writeImgCell path = 
-    "<img src=\"" ++ path ++ "\" width=\"200\" />"
-    -- ++ "<span>"++ rule ++"</span>\n</div>\n"
-    -- where
-    --     rule = filter isUpper . reverse . takeWhile (/= '/') $ dropWhile (/= '.') $ reverse path
+      "<figure>\n"
+    ++"<img src=\""++path++"\"width=\"200\"/>\n"
+    ++"<figcaption>"++rule++"</figcaption>\n"
+    ++"</figure>\n"
+    where rule = reverse $ takeWhile (/= '/') $ dropWhile (/= '.') $ reverse path
 
 filterImgsDirs :: [String] -> ([String],[String])
 filterImgsDirs = partition isImg 
