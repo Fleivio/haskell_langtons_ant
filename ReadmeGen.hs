@@ -22,16 +22,16 @@ writeRec arq = do
 writeGroup :: String -> [String] -> String
 writeGroup gName imgs = 
     "#### " ++ gName ++ 
-    "\n<p float=\"left\">\n" ++
+    "\n<div float=\"left\">\n" ++
      concat (writeImgCell <$> imgs) ++
-    "</p>\n\n"
+    "</div>\n\n"
 
 writeImgCell :: String -> String
 writeImgCell path = 
-      "<figure>\n"
+      "<p>\n"
     ++"<img src=\""++path++"\"width=\"200\"/>\n"
-    ++"<figcaption>"++rule++"</figcaption>\n"
-    ++"</figure>\n"
+    ++"<span>"++rule++"</span>\n"
+    ++"</p>\n"
     where rule = reverse $ takeWhile (/= '/') $ dropWhile (/= '.') $ reverse path
 
 filterImgsDirs :: [String] -> ([String],[String])
