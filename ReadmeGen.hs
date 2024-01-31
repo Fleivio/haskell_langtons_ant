@@ -28,7 +28,7 @@ writeGroup gName imgs =
 
 writeImgCell :: String -> String
 writeImgCell path = 
-    "<img src=\"" ++ path ++ "\" width=\"400\" />"
+    "<img src=\"" ++ path ++ "\" max_width=\"400\" />"
     -- ++ "<span>"++ rule ++"</span>\n</div>\n"
     -- where
     --     rule = filter isUpper . reverse . takeWhile (/= '/') $ dropWhile (/= '.') $ reverse path
