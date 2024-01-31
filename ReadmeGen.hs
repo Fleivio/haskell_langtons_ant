@@ -1,7 +1,7 @@
 module ReadmeGen() where
 
 import System.Directory 
-import Data.List (isSuffixOf, partition)
+import Data.List (isSuffixOf, partition, sort)
 import Data.Char
 
 main :: IO()
@@ -14,7 +14,7 @@ writeRec arq = do
     dirs <- listDirectory arq
     let (imgs', childs') = filterImgsDirs dirs
         childs = ((arq++"/")++) <$> childs'
-        imgs = ((arq++"/")++) <$> imgs'
+        imgs = ((arq++"/")++) <$> sort imgs'
         acc = writeGroup arq imgs
     cRes <- sequence (writeRec <$> childs) 
     return (acc ++ foldl (++) [] cRes)  
