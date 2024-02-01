@@ -1,668 +1,202 @@
 #### ./imgs
-<div float="left">
-</div>
+./imgs|----|-----
+:-----------:|:--:|:----
+
 
 #### ./imgs/LLRRLLRR_RRLL_family
-<div float="left">
-<p>
-<img src="./imgs/LLRRLLRR_RRLL_family/(50,50)LLRRLLRRRRLL.bmp"width="200"/>
-<span>(50,50)LLRRLLRRRRLL.</span>
-</p>
-<p>
-<img src="./imgs/LLRRLLRR_RRLL_family/(50,50)LLRRLLRRRRLLRRLL.bmp"width="200"/>
-<span>(50,50)LLRRLLRRRRLLRRLL.</span>
-</p>
-<p>
-<img src="./imgs/LLRRLLRR_RRLL_family/(50,50)LLRRLLRRRRLLRRLLRRLL.bmp"width="200"/>
-<span>(50,50)LLRRLLRRRRLLRRLLRRLL.</span>
-</p>
-<p>
-<img src="./imgs/LLRRLLRR_RRLL_family/(50,50)LLRRLLRRRRLLRRLLRRLLRRLL.bmp"width="200"/>
-<span>(50,50)LLRRLLRRRRLLRRLLRRLLRRLL.</span>
-</p>
-</div>
+./imgs/LLRRLLRR_RRLL_family|----|-----
+:-----------:|:--:|:----
+(50,50)LLRRLLRRRRLL. | (50,50)LLRRLLRRRRLLRRLL. | (50,50)LLRRLLRRRRLLRRLLRRLL.
+![](./imgs/LLRRLLRR_RRLL_family/(50,50)LLRRLLRRRRLL.bmp) | ![](./imgs/LLRRLLRR_RRLL_family/(50,50)LLRRLLRRRRLLRRLL.bmp) | ![](./imgs/LLRRLLRR_RRLL_family/(50,50)LLRRLLRRRRLLRRLLRRLL.bmp)
+(50,50)LLRRLLRRRRLLRRLLRRLLRRLL. |  | 
+![](./imgs/LLRRLLRR_RRLL_family/(50,50)LLRRLLRRRRLLRRLLRRLLRRLL.bmp) | ![]() | ![]()
+
 
 #### ./imgs/LL_R_LLfamily
-<div float="left">
-<p>
-<img src="./imgs/LL_R_LLfamily/(50,50)LLRLL.bmp"width="200"/>
-<span>(50,50)LLRLL.</span>
-</p>
-<p>
-<img src="./imgs/LL_R_LLfamily/(50,50)LLRRLL.bmp"width="200"/>
-<span>(50,50)LLRRLL.</span>
-</p>
-<p>
-<img src="./imgs/LL_R_LLfamily/(50,50)LLRRRLL.bmp"width="200"/>
-<span>(50,50)LLRRRLL.</span>
-</p>
-<p>
-<img src="./imgs/LL_R_LLfamily/(50,50)LLRRRRLL.bmp"width="200"/>
-<span>(50,50)LLRRRRLL.</span>
-</p>
-<p>
-<img src="./imgs/LL_R_LLfamily/(50,50)LLRRRRRLL.bmp"width="200"/>
-<span>(50,50)LLRRRRRLL.</span>
-</p>
-<p>
-<img src="./imgs/LL_R_LLfamily/(50,50)LLRRRRRRLL.bmp"width="200"/>
-<span>(50,50)LLRRRRRRLL.</span>
-</p>
-<p>
-<img src="./imgs/LL_R_LLfamily/(50,50)LLRRRRRRRLL.bmp"width="200"/>
-<span>(50,50)LLRRRRRRRLL.</span>
-</p>
-<p>
-<img src="./imgs/LL_R_LLfamily/(50,50)LLRRRRRRRRLL.bmp"width="200"/>
-<span>(50,50)LLRRRRRRRRLL.</span>
-</p>
-</div>
+./imgs/LL_R_LLfamily|----|-----
+:-----------:|:--:|:----
+(50,50)LLRLL. | (50,50)LLRRLL. | (50,50)LLRRRLL.
+![](./imgs/LL_R_LLfamily/(50,50)LLRLL.bmp) | ![](./imgs/LL_R_LLfamily/(50,50)LLRRLL.bmp) | ![](./imgs/LL_R_LLfamily/(50,50)LLRRRLL.bmp)
+(50,50)LLRRRRLL. | (50,50)LLRRRRRLL. | (50,50)LLRRRRRRLL.
+![](./imgs/LL_R_LLfamily/(50,50)LLRRRRLL.bmp) | ![](./imgs/LL_R_LLfamily/(50,50)LLRRRRRLL.bmp) | ![](./imgs/LL_R_LLfamily/(50,50)LLRRRRRRLL.bmp)
+(50,50)LLRRRRRRRLL. | (50,50)LLRRRRRRRRLL. | 
+![](./imgs/LL_R_LLfamily/(50,50)LLRRRRRRRLL.bmp) | ![](./imgs/LL_R_LLfamily/(50,50)LLRRRRRRRRLL.bmp) | ![]()
+
 
 #### ./imgs/LRLLL_R_LRLLfamily
-<div float="left">
-<p>
-<img src="./imgs/LRLLL_R_LRLLfamily/(50,50)LRLLLRLRLL.bmp"width="200"/>
-<span>(50,50)LRLLLRLRLL.</span>
-</p>
-<p>
-<img src="./imgs/LRLLL_R_LRLLfamily/(50,50)LRLLLRRLRLL.bmp"width="200"/>
-<span>(50,50)LRLLLRRLRLL.</span>
-</p>
-<p>
-<img src="./imgs/LRLLL_R_LRLLfamily/(50,50)LRLLLRRRLRLL.bmp"width="200"/>
-<span>(50,50)LRLLLRRRLRLL.</span>
-</p>
-<p>
-<img src="./imgs/LRLLL_R_LRLLfamily/(50,50)LRLLLRRRRLRLL.bmp"width="200"/>
-<span>(50,50)LRLLLRRRRLRLL.</span>
-</p>
-<p>
-<img src="./imgs/LRLLL_R_LRLLfamily/(50,50)LRLLLRRRRRLRLL.bmp"width="200"/>
-<span>(50,50)LRLLLRRRRRLRLL.</span>
-</p>
-<p>
-<img src="./imgs/LRLLL_R_LRLLfamily/(50,50)LRLLLRRRRRRLRLL.bmp"width="200"/>
-<span>(50,50)LRLLLRRRRRRLRLL.</span>
-</p>
-<p>
-<img src="./imgs/LRLLL_R_LRLLfamily/(50,50)LRLLLRRRRRRRLRLL.bmp"width="200"/>
-<span>(50,50)LRLLLRRRRRRRLRLL.</span>
-</p>
-<p>
-<img src="./imgs/LRLLL_R_LRLLfamily/(50,50)LRLLLRRRRRRRRLRLL.bmp"width="200"/>
-<span>(50,50)LRLLLRRRRRRRRLRLL.</span>
-</p>
-</div>
+./imgs/LRLLL_R_LRLLfamily|----|-----
+:-----------:|:--:|:----
+(50,50)LRLLLRLRLL. | (50,50)LRLLLRRLRLL. | (50,50)LRLLLRRRLRLL.
+![](./imgs/LRLLL_R_LRLLfamily/(50,50)LRLLLRLRLL.bmp) | ![](./imgs/LRLLL_R_LRLLfamily/(50,50)LRLLLRRLRLL.bmp) | ![](./imgs/LRLLL_R_LRLLfamily/(50,50)LRLLLRRRLRLL.bmp)
+(50,50)LRLLLRRRRLRLL. | (50,50)LRLLLRRRRRLRLL. | (50,50)LRLLLRRRRRRLRLL.
+![](./imgs/LRLLL_R_LRLLfamily/(50,50)LRLLLRRRRLRLL.bmp) | ![](./imgs/LRLLL_R_LRLLfamily/(50,50)LRLLLRRRRRLRLL.bmp) | ![](./imgs/LRLLL_R_LRLLfamily/(50,50)LRLLLRRRRRRLRLL.bmp)
+(50,50)LRLLLRRRRRRRLRLL. | (50,50)LRLLLRRRRRRRRLRLL. | 
+![](./imgs/LRLLL_R_LRLLfamily/(50,50)LRLLLRRRRRRRLRLL.bmp) | ![](./imgs/LRLLL_R_LRLLfamily/(50,50)LRLLLRRRRRRRRLRLL.bmp) | ![]()
+
 
 #### ./imgs/LRRLLLRLRLRR_L_family
-<div float="left">
-<p>
-<img src="./imgs/LRRLLLRLRLRR_L_family/(50,50)LRRLLLRLRLRRL.bmp"width="200"/>
-<span>(50,50)LRRLLLRLRLRRL.</span>
-</p>
-<p>
-<img src="./imgs/LRRLLLRLRLRR_L_family/(50,50)LRRLLLRLRLRRLL.bmp"width="200"/>
-<span>(50,50)LRRLLLRLRLRRLL.</span>
-</p>
-<p>
-<img src="./imgs/LRRLLLRLRLRR_L_family/(50,50)LRRLLLRLRLRRLLL.bmp"width="200"/>
-<span>(50,50)LRRLLLRLRLRRLLL.</span>
-</p>
-<p>
-<img src="./imgs/LRRLLLRLRLRR_L_family/(50,50)LRRLLLRLRLRRLLLL.bmp"width="200"/>
-<span>(50,50)LRRLLLRLRLRRLLLL.</span>
-</p>
-<p>
-<img src="./imgs/LRRLLLRLRLRR_L_family/(50,50)LRRLLLRLRLRRLLLLL.bmp"width="200"/>
-<span>(50,50)LRRLLLRLRLRRLLLLL.</span>
-</p>
-<p>
-<img src="./imgs/LRRLLLRLRLRR_L_family/(50,50)LRRLLLRLRLRRLLLLLL.bmp"width="200"/>
-<span>(50,50)LRRLLLRLRLRRLLLLLL.</span>
-</p>
-</div>
+./imgs/LRRLLLRLRLRR_L_family|----|-----
+:-----------:|:--:|:----
+(50,50)LRRLLLRLRLRRL. | (50,50)LRRLLLRLRLRRLL. | (50,50)LRRLLLRLRLRRLLL.
+![](./imgs/LRRLLLRLRLRR_L_family/(50,50)LRRLLLRLRLRRL.bmp) | ![](./imgs/LRRLLLRLRLRR_L_family/(50,50)LRRLLLRLRLRRLL.bmp) | ![](./imgs/LRRLLLRLRLRR_L_family/(50,50)LRRLLLRLRLRRLLL.bmp)
+(50,50)LRRLLLRLRLRRLLLL. | (50,50)LRRLLLRLRLRRLLLLL. | (50,50)LRRLLLRLRLRRLLLLLL.
+![](./imgs/LRRLLLRLRLRR_L_family/(50,50)LRRLLLRLRLRRLLLL.bmp) | ![](./imgs/LRRLLLRLRLRR_L_family/(50,50)LRRLLLRLRLRRLLLLL.bmp) | ![](./imgs/LRRLLLRLRLRR_L_family/(50,50)LRRLLLRLRLRRLLLLLL.bmp)
+
 
 #### ./imgs/L_R_LLRRLRLfamily
-<div float="left">
-<p>
-<img src="./imgs/L_R_LLRRLRLfamily/(50,50)LRLLRRLRL.bmp"width="200"/>
-<span>(50,50)LRLLRRLRL.</span>
-</p>
-<p>
-<img src="./imgs/L_R_LLRRLRLfamily/(50,50)LRRLLRRLRL.bmp"width="200"/>
-<span>(50,50)LRRLLRRLRL.</span>
-</p>
-<p>
-<img src="./imgs/L_R_LLRRLRLfamily/(50,50)LRRRLLRRLRL.bmp"width="200"/>
-<span>(50,50)LRRRLLRRLRL.</span>
-</p>
-<p>
-<img src="./imgs/L_R_LLRRLRLfamily/(50,50)LRRRRLLRRLRL.bmp"width="200"/>
-<span>(50,50)LRRRRLLRRLRL.</span>
-</p>
-<p>
-<img src="./imgs/L_R_LLRRLRLfamily/(50,50)LRRRRRLLRRLRL.bmp"width="200"/>
-<span>(50,50)LRRRRRLLRRLRL.</span>
-</p>
-<p>
-<img src="./imgs/L_R_LLRRLRLfamily/(50,50)LRRRRRRLLRRLRL.bmp"width="200"/>
-<span>(50,50)LRRRRRRLLRRLRL.</span>
-</p>
-<p>
-<img src="./imgs/L_R_LLRRLRLfamily/(50,50)LRRRRRRRLLRRLRL.bmp"width="200"/>
-<span>(50,50)LRRRRRRRLLRRLRL.</span>
-</p>
-<p>
-<img src="./imgs/L_R_LLRRLRLfamily/(50,50)LRRRRRRRRLLRRLRL.bmp"width="200"/>
-<span>(50,50)LRRRRRRRRLLRRLRL.</span>
-</p>
-<p>
-<img src="./imgs/L_R_LLRRLRLfamily/(50,50)LRRRRRRRRRLLRRLRL.bmp"width="200"/>
-<span>(50,50)LRRRRRRRRRLLRRLRL.</span>
-</p>
-<p>
-<img src="./imgs/L_R_LLRRLRLfamily/(50,50)LRRRRRRRRRRLLRRLRL.bmp"width="200"/>
-<span>(50,50)LRRRRRRRRRRLLRRLRL.</span>
-</p>
-</div>
+./imgs/L_R_LLRRLRLfamily|----|-----
+:-----------:|:--:|:----
+(50,50)LRLLRRLRL. | (50,50)LRRLLRRLRL. | (50,50)LRRRLLRRLRL.
+![](./imgs/L_R_LLRRLRLfamily/(50,50)LRLLRRLRL.bmp) | ![](./imgs/L_R_LLRRLRLfamily/(50,50)LRRLLRRLRL.bmp) | ![](./imgs/L_R_LLRRLRLfamily/(50,50)LRRRLLRRLRL.bmp)
+(50,50)LRRRRLLRRLRL. | (50,50)LRRRRRLLRRLRL. | (50,50)LRRRRRRLLRRLRL.
+![](./imgs/L_R_LLRRLRLfamily/(50,50)LRRRRLLRRLRL.bmp) | ![](./imgs/L_R_LLRRLRLfamily/(50,50)LRRRRRLLRRLRL.bmp) | ![](./imgs/L_R_LLRRLRLfamily/(50,50)LRRRRRRLLRRLRL.bmp)
+(50,50)LRRRRRRRLLRRLRL. | (50,50)LRRRRRRRRLLRRLRL. | (50,50)LRRRRRRRRRLLRRLRL.
+![](./imgs/L_R_LLRRLRLfamily/(50,50)LRRRRRRRLLRRLRL.bmp) | ![](./imgs/L_R_LLRRLRLfamily/(50,50)LRRRRRRRRLLRRLRL.bmp) | ![](./imgs/L_R_LLRRLRLfamily/(50,50)LRRRRRRRRRLLRRLRL.bmp)
+(50,50)LRRRRRRRRRRLLRRLRL. |  | 
+![](./imgs/L_R_LLRRLRLfamily/(50,50)LRRRRRRRRRRLLRRLRL.bmp) | ![]() | ![]()
+
 
 #### ./imgs/L_R_LLRfamily
-<div float="left">
-<p>
-<img src="./imgs/L_R_LLRfamily/(50,50)LRLLR.bmp"width="200"/>
-<span>(50,50)LRLLR.</span>
-</p>
-<p>
-<img src="./imgs/L_R_LLRfamily/(50,50)LRRLLR.bmp"width="200"/>
-<span>(50,50)LRRLLR.</span>
-</p>
-<p>
-<img src="./imgs/L_R_LLRfamily/(50,50)LRRRLLR.bmp"width="200"/>
-<span>(50,50)LRRRLLR.</span>
-</p>
-<p>
-<img src="./imgs/L_R_LLRfamily/(50,50)LRRRRLLR.bmp"width="200"/>
-<span>(50,50)LRRRRLLR.</span>
-</p>
-<p>
-<img src="./imgs/L_R_LLRfamily/(50,50)LRRRRRLLR.bmp"width="200"/>
-<span>(50,50)LRRRRRLLR.</span>
-</p>
-<p>
-<img src="./imgs/L_R_LLRfamily/(50,50)LRRRRRRLLR.bmp"width="200"/>
-<span>(50,50)LRRRRRRLLR.</span>
-</p>
-<p>
-<img src="./imgs/L_R_LLRfamily/(50,50)LRRRRRRRLLR.bmp"width="200"/>
-<span>(50,50)LRRRRRRRLLR.</span>
-</p>
-<p>
-<img src="./imgs/L_R_LLRfamily/(50,50)LRRRRRRRRLLR.bmp"width="200"/>
-<span>(50,50)LRRRRRRRRLLR.</span>
-</p>
-<p>
-<img src="./imgs/L_R_LLRfamily/(50,50)LRRRRRRRRRLLR.bmp"width="200"/>
-<span>(50,50)LRRRRRRRRRLLR.</span>
-</p>
-<p>
-<img src="./imgs/L_R_LLRfamily/(50,50)LRRRRRRRRRRLLR.bmp"width="200"/>
-<span>(50,50)LRRRRRRRRRRLLR.</span>
-</p>
-</div>
+./imgs/L_R_LLRfamily|----|-----
+:-----------:|:--:|:----
+(50,50)LRLLR. | (50,50)LRRLLR. | (50,50)LRRRLLR.
+![](./imgs/L_R_LLRfamily/(50,50)LRLLR.bmp) | ![](./imgs/L_R_LLRfamily/(50,50)LRRLLR.bmp) | ![](./imgs/L_R_LLRfamily/(50,50)LRRRLLR.bmp)
+(50,50)LRRRRLLR. | (50,50)LRRRRRLLR. | (50,50)LRRRRRRLLR.
+![](./imgs/L_R_LLRfamily/(50,50)LRRRRLLR.bmp) | ![](./imgs/L_R_LLRfamily/(50,50)LRRRRRLLR.bmp) | ![](./imgs/L_R_LLRfamily/(50,50)LRRRRRRLLR.bmp)
+(50,50)LRRRRRRRLLR. | (50,50)LRRRRRRRRLLR. | (50,50)LRRRRRRRRRLLR.
+![](./imgs/L_R_LLRfamily/(50,50)LRRRRRRRLLR.bmp) | ![](./imgs/L_R_LLRfamily/(50,50)LRRRRRRRRLLR.bmp) | ![](./imgs/L_R_LLRfamily/(50,50)LRRRRRRRRRLLR.bmp)
+(50,50)LRRRRRRRRRRLLR. |  | 
+![](./imgs/L_R_LLRfamily/(50,50)LRRRRRRRRRRLLR.bmp) | ![]() | ![]()
+
 
 #### ./imgs/L_R_Lfamily
-<div float="left">
-<p>
-<img src="./imgs/L_R_Lfamily/(50,50)LRL.bmp"width="200"/>
-<span>(50,50)LRL.</span>
-</p>
-<p>
-<img src="./imgs/L_R_Lfamily/(50,50)LRRL.bmp"width="200"/>
-<span>(50,50)LRRL.</span>
-</p>
-<p>
-<img src="./imgs/L_R_Lfamily/(50,50)LRRRL.bmp"width="200"/>
-<span>(50,50)LRRRL.</span>
-</p>
-<p>
-<img src="./imgs/L_R_Lfamily/(50,50)LRRRRL.bmp"width="200"/>
-<span>(50,50)LRRRRL.</span>
-</p>
-<p>
-<img src="./imgs/L_R_Lfamily/(50,50)LRRRRRL.bmp"width="200"/>
-<span>(50,50)LRRRRRL.</span>
-</p>
-<p>
-<img src="./imgs/L_R_Lfamily/(50,50)LRRRRRRL.bmp"width="200"/>
-<span>(50,50)LRRRRRRL.</span>
-</p>
-<p>
-<img src="./imgs/L_R_Lfamily/(50,50)LRRRRRRRL.bmp"width="200"/>
-<span>(50,50)LRRRRRRRL.</span>
-</p>
-<p>
-<img src="./imgs/L_R_Lfamily/(50,50)LRRRRRRRRL.bmp"width="200"/>
-<span>(50,50)LRRRRRRRRL.</span>
-</p>
-</div>
+./imgs/L_R_Lfamily|----|-----
+:-----------:|:--:|:----
+(50,50)LRL. | (50,50)LRRL. | (50,50)LRRRL.
+![](./imgs/L_R_Lfamily/(50,50)LRL.bmp) | ![](./imgs/L_R_Lfamily/(50,50)LRRL.bmp) | ![](./imgs/L_R_Lfamily/(50,50)LRRRL.bmp)
+(50,50)LRRRRL. | (50,50)LRRRRRL. | (50,50)LRRRRRRL.
+![](./imgs/L_R_Lfamily/(50,50)LRRRRL.bmp) | ![](./imgs/L_R_Lfamily/(50,50)LRRRRRL.bmp) | ![](./imgs/L_R_Lfamily/(50,50)LRRRRRRL.bmp)
+(50,50)LRRRRRRRL. | (50,50)LRRRRRRRRL. | 
+![](./imgs/L_R_Lfamily/(50,50)LRRRRRRRL.bmp) | ![](./imgs/L_R_Lfamily/(50,50)LRRRRRRRRL.bmp) | ![]()
+
 
 #### ./imgs/Multiples
-<div float="left">
-<p>
-<img src="./imgs/Multiples/(10,50)LRRL(50,50)LLRRLL.bmp"width="200"/>
-<span>(10,50)LRRL(50,50)LLRRLL.</span>
-</p>
-<p>
-<img src="./imgs/Multiples/(10,50)LRRL(90,50)LRRL.bmp"width="200"/>
-<span>(10,50)LRRL(90,50)LRRL.</span>
-</p>
-<p>
-<img src="./imgs/Multiples/(10,50)LRRL(90,50)RLLR.bmp"width="200"/>
-<span>(10,50)LRRL(90,50)RLLR.</span>
-</p>
-<p>
-<img src="./imgs/Multiples/(10,50)RLLR(50,50)RLLLLRRRLLL.bmp"width="200"/>
-<span>(10,50)RLLR(50,50)RLLLLRRRLLL.</span>
-</p>
-<p>
-<img src="./imgs/Multiples/(45,50)LLRLL(55,50)RRLRR.bmp"width="200"/>
-<span>(45,50)LLRLL(55,50)RRLRR.</span>
-</p>
-<p>
-<img src="./imgs/Multiples/(45,50)LLRLRLL(55,50)RRLRLRR.bmp"width="200"/>
-<span>(45,50)LLRLRLL(55,50)RRLRLRR.</span>
-</p>
-<p>
-<img src="./imgs/Multiples/(45,50)LLRRRRLL(55,50)RRLLLLRR.bmp"width="200"/>
-<span>(45,50)LLRRRRLL(55,50)RRLLLLRR.</span>
-</p>
-<p>
-<img src="./imgs/Multiples/(45,50)LRRRRL(55,50)RLLLLR.bmp"width="200"/>
-<span>(45,50)LRRRRL(55,50)RLLLLR.</span>
-</p>
-<p>
-<img src="./imgs/Multiples/(45,50)LRRRRRL(55,50)RLLLLLR.bmp"width="200"/>
-<span>(45,50)LRRRRRL(55,50)RLLLLLR.</span>
-</p>
-<p>
-<img src="./imgs/Multiples/(45,50)RLL(55,50)LRR.bmp"width="200"/>
-<span>(45,50)RLL(55,50)LRR.</span>
-</p>
-<p>
-<img src="./imgs/Multiples/(45,50)RLLLLL(55,50)LRRRRR.bmp"width="200"/>
-<span>(45,50)RLLLLL(55,50)LRRRRR.</span>
-</p>
-<p>
-<img src="./imgs/Multiples/(45,50)RLLLLRRRLLL(55,50)LRRRRLLLRRR.bmp"width="200"/>
-<span>(45,50)RLLLLRRRLLL(55,50)LRRRRLLLRRR.</span>
-</p>
-<p>
-<img src="./imgs/Multiples/(45,50)RLLLRRR(55,50)LRRRLLL.bmp"width="200"/>
-<span>(45,50)RLLLRRR(55,50)LRRRLLL.</span>
-</p>
-<p>
-<img src="./imgs/Multiples/(45,50)RLLLRRRL(55,50)LRRRLLLR.bmp"width="200"/>
-<span>(45,50)RLLLRRRL(55,50)LRRRLLLR.</span>
-</p>
-<p>
-<img src="./imgs/Multiples/(45,50)RLLLRRRLL(55,50)LRRRLLLRR.bmp"width="200"/>
-<span>(45,50)RLLLRRRLL(55,50)LRRRLLLRR.</span>
-</p>
-<p>
-<img src="./imgs/Multiples/(45,50)RLLLRRRLLL(55,50)LRRRLLLRRR.bmp"width="200"/>
-<span>(45,50)RLLLRRRLLL(55,50)LRRRLLLRRR.</span>
-</p>
-<p>
-<img src="./imgs/Multiples/(45,50)RLLRRR(55,50)LRRLLL.bmp"width="200"/>
-<span>(45,50)RLLRRR(55,50)LRRLLL.</span>
-</p>
-<p>
-<img src="./imgs/Multiples/(45,50)RLNLR(55,50)LRNRL.bmp"width="200"/>
-<span>(45,50)RLNLR(55,50)LRNRL.</span>
-</p>
-<p>
-<img src="./imgs/Multiples/(45,50)RRBRR(55,50)LLBLL.bmp"width="200"/>
-<span>(45,50)RRBRR(55,50)LLBLL.</span>
-</p>
-<p>
-<img src="./imgs/Multiples/(45,50)RRRRLLLLLLLL(55,50)LLLLRRRRRRRR.bmp"width="200"/>
-<span>(45,50)RRRRLLLLLLLL(55,50)LLLLRRRRRRRR.</span>
-</p>
-<p>
-<img src="./imgs/Multiples/(50,50)LRRL(50,50)RBL.bmp"width="200"/>
-<span>(50,50)LRRL(50,50)RBL.</span>
-</p>
-<p>
-<img src="./imgs/Multiples/Butterfly(45,50)LLRLLRLL(55,50)RRLRRLRR.bmp"width="200"/>
-<span>Butterfly(45,50)LLRLLRLL(55,50)RRLRRLRR.</span>
-</p>
-<p>
-<img src="./imgs/Multiples/Moth(45,50)LLRLL(55,50)RRLRR.bmp"width="200"/>
-<span>Moth(45,50)LLRLL(55,50)RRLRR.</span>
-</p>
-<p>
-<img src="./imgs/Multiples/Penis(45,50)RRRRLLLLLL(55,50)LLLLRRRRR.bmp"width="200"/>
-<span>Penis(45,50)RRRRLLLLLL(55,50)LLLLRRRRR.</span>
-</p>
-</div>
+./imgs/Multiples|----|-----
+:-----------:|:--:|:----
+(10,50)LRRL(50,50)LLRRLL. | (10,50)LRRL(90,50)LRRL. | (10,50)LRRL(90,50)RLLR.
+![](./imgs/Multiples/(10,50)LRRL(50,50)LLRRLL.bmp) | ![](./imgs/Multiples/(10,50)LRRL(90,50)LRRL.bmp) | ![](./imgs/Multiples/(10,50)LRRL(90,50)RLLR.bmp)
+(10,50)RLLR(50,50)RLLLLRRRLLL. | (45,50)LLRLL(55,50)RRLRR. | (45,50)LLRLRLL(55,50)RRLRLRR.
+![](./imgs/Multiples/(10,50)RLLR(50,50)RLLLLRRRLLL.bmp) | ![](./imgs/Multiples/(45,50)LLRLL(55,50)RRLRR.bmp) | ![](./imgs/Multiples/(45,50)LLRLRLL(55,50)RRLRLRR.bmp)
+(45,50)LLRRRRLL(55,50)RRLLLLRR. | (45,50)LRRRRL(55,50)RLLLLR. | (45,50)LRRRRRL(55,50)RLLLLLR.
+![](./imgs/Multiples/(45,50)LLRRRRLL(55,50)RRLLLLRR.bmp) | ![](./imgs/Multiples/(45,50)LRRRRL(55,50)RLLLLR.bmp) | ![](./imgs/Multiples/(45,50)LRRRRRL(55,50)RLLLLLR.bmp)
+(45,50)RLL(55,50)LRR. | (45,50)RLLLLL(55,50)LRRRRR. | (45,50)RLLLLRRRLLL(55,50)LRRRRLLLRRR.
+![](./imgs/Multiples/(45,50)RLL(55,50)LRR.bmp) | ![](./imgs/Multiples/(45,50)RLLLLL(55,50)LRRRRR.bmp) | ![](./imgs/Multiples/(45,50)RLLLLRRRLLL(55,50)LRRRRLLLRRR.bmp)
+(45,50)RLLLRRR(55,50)LRRRLLL. | (45,50)RLLLRRRL(55,50)LRRRLLLR. | (45,50)RLLLRRRLL(55,50)LRRRLLLRR.
+![](./imgs/Multiples/(45,50)RLLLRRR(55,50)LRRRLLL.bmp) | ![](./imgs/Multiples/(45,50)RLLLRRRL(55,50)LRRRLLLR.bmp) | ![](./imgs/Multiples/(45,50)RLLLRRRLL(55,50)LRRRLLLRR.bmp)
+(45,50)RLLLRRRLLL(55,50)LRRRLLLRRR. | (45,50)RLLRRR(55,50)LRRLLL. | (45,50)RLNLR(55,50)LRNRL.
+![](./imgs/Multiples/(45,50)RLLLRRRLLL(55,50)LRRRLLLRRR.bmp) | ![](./imgs/Multiples/(45,50)RLLRRR(55,50)LRRLLL.bmp) | ![](./imgs/Multiples/(45,50)RLNLR(55,50)LRNRL.bmp)
+(45,50)RRBRR(55,50)LLBLL. | (45,50)RRRRLLLLLLLL(55,50)LLLLRRRRRRRR. | (50,50)LRRL(50,50)RBL.
+![](./imgs/Multiples/(45,50)RRBRR(55,50)LLBLL.bmp) | ![](./imgs/Multiples/(45,50)RRRRLLLLLLLL(55,50)LLLLRRRRRRRR.bmp) | ![](./imgs/Multiples/(50,50)LRRL(50,50)RBL.bmp)
+Butterfly(45,50)LLRLLRLL(55,50)RRLRRLRR. | Moth(45,50)LLRLL(55,50)RRLRR. | Penis(45,50)RRRRLLLLLL(55,50)LLLLRRRRR.
+![](./imgs/Multiples/Butterfly(45,50)LLRLLRLL(55,50)RRLRRLRR.bmp) | ![](./imgs/Multiples/Moth(45,50)LLRLL(55,50)RRLRR.bmp) | ![](./imgs/Multiples/Penis(45,50)RRRRLLLLLL(55,50)LLLLRRRRR.bmp)
+
 
 #### ./imgs/RLRL_R_LLfamily
-<div float="left">
-<p>
-<img src="./imgs/RLRL_R_LLfamily/(50,50)RLRLRLL.bmp"width="200"/>
-<span>(50,50)RLRLRLL.</span>
-</p>
-<p>
-<img src="./imgs/RLRL_R_LLfamily/(50,50)RLRLRRLL.bmp"width="200"/>
-<span>(50,50)RLRLRRLL.</span>
-</p>
-<p>
-<img src="./imgs/RLRL_R_LLfamily/(50,50)RLRLRRRLL.bmp"width="200"/>
-<span>(50,50)RLRLRRRLL.</span>
-</p>
-<p>
-<img src="./imgs/RLRL_R_LLfamily/(50,50)RLRLRRRRLL.bmp"width="200"/>
-<span>(50,50)RLRLRRRRLL.</span>
-</p>
-<p>
-<img src="./imgs/RLRL_R_LLfamily/(50,50)RLRLRRRRRLL.bmp"width="200"/>
-<span>(50,50)RLRLRRRRRLL.</span>
-</p>
-<p>
-<img src="./imgs/RLRL_R_LLfamily/(50,50)RLRLRRRRRRLL.bmp"width="200"/>
-<span>(50,50)RLRLRRRRRRLL.</span>
-</p>
-<p>
-<img src="./imgs/RLRL_R_LLfamily/(50,50)RLRLRRRRRRRLL.bmp"width="200"/>
-<span>(50,50)RLRLRRRRRRRLL.</span>
-</p>
-</div>
+./imgs/RLRL_R_LLfamily|----|-----
+:-----------:|:--:|:----
+(50,50)RLRLRLL. | (50,50)RLRLRRLL. | (50,50)RLRLRRRLL.
+![](./imgs/RLRL_R_LLfamily/(50,50)RLRLRLL.bmp) | ![](./imgs/RLRL_R_LLfamily/(50,50)RLRLRRLL.bmp) | ![](./imgs/RLRL_R_LLfamily/(50,50)RLRLRRRLL.bmp)
+(50,50)RLRLRRRRLL. | (50,50)RLRLRRRRRLL. | (50,50)RLRLRRRRRRLL.
+![](./imgs/RLRL_R_LLfamily/(50,50)RLRLRRRRLL.bmp) | ![](./imgs/RLRL_R_LLfamily/(50,50)RLRLRRRRRLL.bmp) | ![](./imgs/RLRL_R_LLfamily/(50,50)RLRLRRRRRRLL.bmp)
+(50,50)RLRLRRRRRRRLL. |  | 
+![](./imgs/RLRL_R_LLfamily/(50,50)RLRLRRRRRRRLL.bmp) | ![]() | ![]()
+
 
 #### ./imgs/RRLLLR_L_family
-<div float="left">
-<p>
-<img src="./imgs/RRLLLR_L_family/(50,50)RRLLLRL.bmp"width="200"/>
-<span>(50,50)RRLLLRL.</span>
-</p>
-<p>
-<img src="./imgs/RRLLLR_L_family/(50,50)RRLLLRLL.bmp"width="200"/>
-<span>(50,50)RRLLLRLL.</span>
-</p>
-<p>
-<img src="./imgs/RRLLLR_L_family/(50,50)RRLLLRLLL.bmp"width="200"/>
-<span>(50,50)RRLLLRLLL.</span>
-</p>
-<p>
-<img src="./imgs/RRLLLR_L_family/(50,50)RRLLLRLLLL.bmp"width="200"/>
-<span>(50,50)RRLLLRLLLL.</span>
-</p>
-<p>
-<img src="./imgs/RRLLLR_L_family/(50,50)RRLLLRLLLLL.bmp"width="200"/>
-<span>(50,50)RRLLLRLLLLL.</span>
-</p>
-<p>
-<img src="./imgs/RRLLLR_L_family/(50,50)RRLLLRLLLLLL.bmp"width="200"/>
-<span>(50,50)RRLLLRLLLLLL.</span>
-</p>
-</div>
+./imgs/RRLLLR_L_family|----|-----
+:-----------:|:--:|:----
+(50,50)RRLLLRL. | (50,50)RRLLLRLL. | (50,50)RRLLLRLLL.
+![](./imgs/RRLLLR_L_family/(50,50)RRLLLRL.bmp) | ![](./imgs/RRLLLR_L_family/(50,50)RRLLLRLL.bmp) | ![](./imgs/RRLLLR_L_family/(50,50)RRLLLRLLL.bmp)
+(50,50)RRLLLRLLLL. | (50,50)RRLLLRLLLLL. | (50,50)RRLLLRLLLLLL.
+![](./imgs/RRLLLR_L_family/(50,50)RRLLLRLLLL.bmp) | ![](./imgs/RRLLLR_L_family/(50,50)RRLLLRLLLLL.bmp) | ![](./imgs/RRLLLR_L_family/(50,50)RRLLLRLLLLLL.bmp)
+
 
 #### ./imgs/RRLRRRRLL_R_family
-<div float="left">
-<p>
-<img src="./imgs/RRLRRRRLL_R_family/(50,50)RRLRRRRLLR.bmp"width="200"/>
-<span>(50,50)RRLRRRRLLR.</span>
-</p>
-<p>
-<img src="./imgs/RRLRRRRLL_R_family/(50,50)RRLRRRRLLRR.bmp"width="200"/>
-<span>(50,50)RRLRRRRLLRR.</span>
-</p>
-<p>
-<img src="./imgs/RRLRRRRLL_R_family/(50,50)RRLRRRRLLRRR.bmp"width="200"/>
-<span>(50,50)RRLRRRRLLRRR.</span>
-</p>
-<p>
-<img src="./imgs/RRLRRRRLL_R_family/(50,50)RRLRRRRLLRRRR.bmp"width="200"/>
-<span>(50,50)RRLRRRRLLRRRR.</span>
-</p>
-<p>
-<img src="./imgs/RRLRRRRLL_R_family/(50,50)RRLRRRRLLRRRRR.bmp"width="200"/>
-<span>(50,50)RRLRRRRLLRRRRR.</span>
-</p>
-<p>
-<img src="./imgs/RRLRRRRLL_R_family/(50,50)RRLRRRRLLRRRRRR.bmp"width="200"/>
-<span>(50,50)RRLRRRRLLRRRRRR.</span>
-</p>
-<p>
-<img src="./imgs/RRLRRRRLL_R_family/(50,50)RRLRRRRLLRRRRRRR.bmp"width="200"/>
-<span>(50,50)RRLRRRRLLRRRRRRR.</span>
-</p>
-<p>
-<img src="./imgs/RRLRRRRLL_R_family/(50,50)RRLRRRRLLRRRRRRRR.bmp"width="200"/>
-<span>(50,50)RRLRRRRLLRRRRRRRR.</span>
-</p>
-<p>
-<img src="./imgs/RRLRRRRLL_R_family/(50,50)RRLRRRRLLRRRRRRRRR.bmp"width="200"/>
-<span>(50,50)RRLRRRRLLRRRRRRRRR.</span>
-</p>
-<p>
-<img src="./imgs/RRLRRRRLL_R_family/(50,50)RRLRRRRLLRRRRRRRRRR.bmp"width="200"/>
-<span>(50,50)RRLRRRRLLRRRRRRRRRR.</span>
-</p>
-<p>
-<img src="./imgs/RRLRRRRLL_R_family/(50,50)RRLRRRRLLRRRRRRRRRRR.bmp"width="200"/>
-<span>(50,50)RRLRRRRLLRRRRRRRRRRR.</span>
-</p>
-<p>
-<img src="./imgs/RRLRRRRLL_R_family/(50,50)RRLRRRRLLRRRRRRRRRRRR.bmp"width="200"/>
-<span>(50,50)RRLRRRRLLRRRRRRRRRRRR.</span>
-</p>
-<p>
-<img src="./imgs/RRLRRRRLL_R_family/(50,50)RRLRRRRLLRRRRRRRRRRRRR.bmp"width="200"/>
-<span>(50,50)RRLRRRRLLRRRRRRRRRRRRR.</span>
-</p>
-</div>
+./imgs/RRLRRRRLL_R_family|----|-----
+:-----------:|:--:|:----
+(50,50)RRLRRRRLLR. | (50,50)RRLRRRRLLRR. | (50,50)RRLRRRRLLRRR.
+![](./imgs/RRLRRRRLL_R_family/(50,50)RRLRRRRLLR.bmp) | ![](./imgs/RRLRRRRLL_R_family/(50,50)RRLRRRRLLRR.bmp) | ![](./imgs/RRLRRRRLL_R_family/(50,50)RRLRRRRLLRRR.bmp)
+(50,50)RRLRRRRLLRRRR. | (50,50)RRLRRRRLLRRRRR. | (50,50)RRLRRRRLLRRRRRR.
+![](./imgs/RRLRRRRLL_R_family/(50,50)RRLRRRRLLRRRR.bmp) | ![](./imgs/RRLRRRRLL_R_family/(50,50)RRLRRRRLLRRRRR.bmp) | ![](./imgs/RRLRRRRLL_R_family/(50,50)RRLRRRRLLRRRRRR.bmp)
+(50,50)RRLRRRRLLRRRRRRR. | (50,50)RRLRRRRLLRRRRRRRR. | (50,50)RRLRRRRLLRRRRRRRRR.
+![](./imgs/RRLRRRRLL_R_family/(50,50)RRLRRRRLLRRRRRRR.bmp) | ![](./imgs/RRLRRRRLL_R_family/(50,50)RRLRRRRLLRRRRRRRR.bmp) | ![](./imgs/RRLRRRRLL_R_family/(50,50)RRLRRRRLLRRRRRRRRR.bmp)
+(50,50)RRLRRRRLLRRRRRRRRRR. | (50,50)RRLRRRRLLRRRRRRRRRRR. | (50,50)RRLRRRRLLRRRRRRRRRRRR.
+![](./imgs/RRLRRRRLL_R_family/(50,50)RRLRRRRLLRRRRRRRRRR.bmp) | ![](./imgs/RRLRRRRLL_R_family/(50,50)RRLRRRRLLRRRRRRRRRRR.bmp) | ![](./imgs/RRLRRRRLL_R_family/(50,50)RRLRRRRLLRRRRRRRRRRRR.bmp)
+(50,50)RRLRRRRLLRRRRRRRRRRRRR. |  | 
+![](./imgs/RRLRRRRLL_R_family/(50,50)RRLRRRRLLRRRRRRRRRRRRR.bmp) | ![]() | ![]()
+
 
 #### ./imgs/RRL_L_family
-<div float="left">
-<p>
-<img src="./imgs/RRL_L_family/(50,50)RRLL.bmp"width="200"/>
-<span>(50,50)RRLL.</span>
-</p>
-<p>
-<img src="./imgs/RRL_L_family/(50,50)RRLLL.bmp"width="200"/>
-<span>(50,50)RRLLL.</span>
-</p>
-<p>
-<img src="./imgs/RRL_L_family/(50,50)RRLLLL.bmp"width="200"/>
-<span>(50,50)RRLLLL.</span>
-</p>
-<p>
-<img src="./imgs/RRL_L_family/(50,50)RRLLLLL.bmp"width="200"/>
-<span>(50,50)RRLLLLL.</span>
-</p>
-<p>
-<img src="./imgs/RRL_L_family/(50,50)RRLLLLLL.bmp"width="200"/>
-<span>(50,50)RRLLLLLL.</span>
-</p>
-</div>
+./imgs/RRL_L_family|----|-----
+:-----------:|:--:|:----
+(50,50)RRLL. | (50,50)RRLLL. | (50,50)RRLLLL.
+![](./imgs/RRL_L_family/(50,50)RRLL.bmp) | ![](./imgs/RRL_L_family/(50,50)RRLLL.bmp) | ![](./imgs/RRL_L_family/(50,50)RRLLLL.bmp)
+(50,50)RRLLLLL. | (50,50)RRLLLLLL. | 
+![](./imgs/RRL_L_family/(50,50)RRLLLLL.bmp) | ![](./imgs/RRL_L_family/(50,50)RRLLLLLL.bmp) | ![]()
+
 
 #### ./imgs/RRL_R_LLLRRRRRLLfamily
-<div float="left">
-<p>
-<img src="./imgs/RRL_R_LLLRRRRRLLfamily/(50,50)RRLRLLLRRRRRLL.bmp"width="200"/>
-<span>(50,50)RRLRLLLRRRRRLL.</span>
-</p>
-<p>
-<img src="./imgs/RRL_R_LLLRRRRRLLfamily/(50,50)RRLRRLLLRRRRRLLL.bmp"width="200"/>
-<span>(50,50)RRLRRLLLRRRRRLLL.</span>
-</p>
-<p>
-<img src="./imgs/RRL_R_LLLRRRRRLLfamily/(50,50)RRLRRRLLLRRRRRLLL.bmp"width="200"/>
-<span>(50,50)RRLRRRLLLRRRRRLLL.</span>
-</p>
-<p>
-<img src="./imgs/RRL_R_LLLRRRRRLLfamily/(50,50)RRLRRRRLLLRRRRRLLL.bmp"width="200"/>
-<span>(50,50)RRLRRRRLLLRRRRRLLL.</span>
-</p>
-<p>
-<img src="./imgs/RRL_R_LLLRRRRRLLfamily/(50,50)RRLRRRRRLLLRRRRRLLL.bmp"width="200"/>
-<span>(50,50)RRLRRRRRLLLRRRRRLLL.</span>
-</p>
-<p>
-<img src="./imgs/RRL_R_LLLRRRRRLLfamily/(50,50)RRLRRRRRRLLLRRRRRLLL.bmp"width="200"/>
-<span>(50,50)RRLRRRRRRLLLRRRRRLLL.</span>
-</p>
-</div>
+./imgs/RRL_R_LLLRRRRRLLfamily|----|-----
+:-----------:|:--:|:----
+(50,50)RRLRLLLRRRRRLL. | (50,50)RRLRRLLLRRRRRLLL. | (50,50)RRLRRRLLLRRRRRLLL.
+![](./imgs/RRL_R_LLLRRRRRLLfamily/(50,50)RRLRLLLRRRRRLL.bmp) | ![](./imgs/RRL_R_LLLRRRRRLLfamily/(50,50)RRLRRLLLRRRRRLLL.bmp) | ![](./imgs/RRL_R_LLLRRRRRLLfamily/(50,50)RRLRRRLLLRRRRRLLL.bmp)
+(50,50)RRLRRRRLLLRRRRRLLL. | (50,50)RRLRRRRRLLLRRRRRLLL. | (50,50)RRLRRRRRRLLLRRRRRLLL.
+![](./imgs/RRL_R_LLLRRRRRLLfamily/(50,50)RRLRRRRLLLRRRRRLLL.bmp) | ![](./imgs/RRL_R_LLLRRRRRLLfamily/(50,50)RRLRRRRRLLLRRRRRLLL.bmp) | ![](./imgs/RRL_R_LLLRRRRRLLfamily/(50,50)RRLRRRRRRLLLRRRRRLLL.bmp)
+
 
 #### ./imgs/RRRRLLL_L_family
-<div float="left">
-<p>
-<img src="./imgs/RRRRLLL_L_family/(50,50)RRRRLLLL.bmp"width="200"/>
-<span>(50,50)RRRRLLLL.</span>
-</p>
-<p>
-<img src="./imgs/RRRRLLL_L_family/(50,50)RRRRLLLLL.bmp"width="200"/>
-<span>(50,50)RRRRLLLLL.</span>
-</p>
-<p>
-<img src="./imgs/RRRRLLL_L_family/(50,50)RRRRLLLLLL.bmp"width="200"/>
-<span>(50,50)RRRRLLLLLL.</span>
-</p>
-<p>
-<img src="./imgs/RRRRLLL_L_family/(50,50)RRRRLLLLLLL.bmp"width="200"/>
-<span>(50,50)RRRRLLLLLLL.</span>
-</p>
-<p>
-<img src="./imgs/RRRRLLL_L_family/(50,50)RRRRLLLLLLLL.bmp"width="200"/>
-<span>(50,50)RRRRLLLLLLLL.</span>
-</p>
-<p>
-<img src="./imgs/RRRRLLL_L_family/(50,50)RRRRLLLLLLLLL.bmp"width="200"/>
-<span>(50,50)RRRRLLLLLLLLL.</span>
-</p>
-<p>
-<img src="./imgs/RRRRLLL_L_family/(50,50)RRRRLLLLLLLLLL.bmp"width="200"/>
-<span>(50,50)RRRRLLLLLLLLLL.</span>
-</p>
-</div>
+./imgs/RRRRLLL_L_family|----|-----
+:-----------:|:--:|:----
+(50,50)RRRRLLLL. | (50,50)RRRRLLLLL. | (50,50)RRRRLLLLLL.
+![](./imgs/RRRRLLL_L_family/(50,50)RRRRLLLL.bmp) | ![](./imgs/RRRRLLL_L_family/(50,50)RRRRLLLLL.bmp) | ![](./imgs/RRRRLLL_L_family/(50,50)RRRRLLLLLL.bmp)
+(50,50)RRRRLLLLLLL. | (50,50)RRRRLLLLLLLL. | (50,50)RRRRLLLLLLLLL.
+![](./imgs/RRRRLLL_L_family/(50,50)RRRRLLLLLLL.bmp) | ![](./imgs/RRRRLLL_L_family/(50,50)RRRRLLLLLLLL.bmp) | ![](./imgs/RRRRLLL_L_family/(50,50)RRRRLLLLLLLLL.bmp)
+(50,50)RRRRLLLLLLLLLL. |  | 
+![](./imgs/RRRRLLL_L_family/(50,50)RRRRLLLLLLLLLL.bmp) | ![]() | ![]()
+
 
 #### ./imgs/R_L_RRRLLLfamily
-<div float="left">
-<p>
-<img src="./imgs/R_L_RRRLLLfamily/(50,50)RLLLLLRRRLLL.bmp"width="200"/>
-<span>(50,50)RLLLLLRRRLLL.</span>
-</p>
-<p>
-<img src="./imgs/R_L_RRRLLLfamily/(50,50)RLLLLRRRLLL.bmp"width="200"/>
-<span>(50,50)RLLLLRRRLLL.</span>
-</p>
-<p>
-<img src="./imgs/R_L_RRRLLLfamily/(50,50)RLLLRRRLLL.bmp"width="200"/>
-<span>(50,50)RLLLRRRLLL.</span>
-</p>
-<p>
-<img src="./imgs/R_L_RRRLLLfamily/(50,50)RLLRRRLLL.bmp"width="200"/>
-<span>(50,50)RLLRRRLLL.</span>
-</p>
-<p>
-<img src="./imgs/R_L_RRRLLLfamily/(50,50)RLRRRLLL.bmp"width="200"/>
-<span>(50,50)RLRRRLLL.</span>
-</p>
-</div>
+./imgs/R_L_RRRLLLfamily|----|-----
+:-----------:|:--:|:----
+(50,50)RLLLLLRRRLLL. | (50,50)RLLLLRRRLLL. | (50,50)RLLLRRRLLL.
+![](./imgs/R_L_RRRLLLfamily/(50,50)RLLLLLRRRLLL.bmp) | ![](./imgs/R_L_RRRLLLfamily/(50,50)RLLLLRRRLLL.bmp) | ![](./imgs/R_L_RRRLLLfamily/(50,50)RLLLRRRLLL.bmp)
+(50,50)RLLRRRLLL. | (50,50)RLRRRLLL. | 
+![](./imgs/R_L_RRRLLLfamily/(50,50)RLLRRRLLL.bmp) | ![](./imgs/R_L_RRRLLLfamily/(50,50)RLRRRLLL.bmp) | ![]()
+
 
 #### ./imgs/Rails
-<div float="left">
-<p>
-<img src="./imgs/Rails/(50,50)LLBRLL.bmp"width="200"/>
-<span>(50,50)LLBRLL.</span>
-</p>
-<p>
-<img src="./imgs/Rails/(50,50)LLBRLRBLL.bmp"width="200"/>
-<span>(50,50)LLBRLRBLL.</span>
-</p>
-<p>
-<img src="./imgs/Rails/(50,50)LLRLRLLLRLLLLL.bmp"width="200"/>
-<span>(50,50)LLRLRLLLRLLLLL.</span>
-</p>
-<p>
-<img src="./imgs/Rails/(50,50)LLRRRLLLLRRLLRRLLRRRLLLL.bmp"width="200"/>
-<span>(50,50)LLRRRLLLLRRLLRRLLRRRLLLL.</span>
-</p>
-<p>
-<img src="./imgs/Rails/(50,50)LLRRRLLLLRRRLLL.bmp"width="200"/>
-<span>(50,50)LLRRRLLLLRRRLLL.</span>
-</p>
-<p>
-<img src="./imgs/Rails/(50,50)LLRRRLLLRRRLLLL.bmp"width="200"/>
-<span>(50,50)LLRRRLLLRRRLLLL.</span>
-</p>
-<p>
-<img src="./imgs/Rails/(50,50)LLRRRLLLRRRLLLLL.bmp"width="200"/>
-<span>(50,50)LLRRRLLLRRRLLLLL.</span>
-</p>
-<p>
-<img src="./imgs/Rails/(50,50)RNLLRLLLLRLLNR.bmp"width="200"/>
-<span>(50,50)RNLLRLLLLRLLNR.</span>
-</p>
-<p>
-<img src="./imgs/Rails/(50,50)RRLLLRLLLRRR.bmp"width="200"/>
-<span>(50,50)RRLLLRLLLRRR.</span>
-</p>
-<p>
-<img src="./imgs/Rails/(50,50)RRLRLLRRRRLL.bmp"width="200"/>
-<span>(50,50)RRLRLLRRRRLL.</span>
-</p>
-<p>
-<img src="./imgs/Rails/(50,50)RRRRLRRRRLL.bmp"width="200"/>
-<span>(50,50)RRRRLRRRRLL.</span>
-</p>
-</div>
+./imgs/Rails|----|-----
+:-----------:|:--:|:----
+(50,50)LLBRLL. | (50,50)LLBRLRBLL. | (50,50)LLRLRLLLRLLLLL.
+![](./imgs/Rails/(50,50)LLBRLL.bmp) | ![](./imgs/Rails/(50,50)LLBRLRBLL.bmp) | ![](./imgs/Rails/(50,50)LLRLRLLLRLLLLL.bmp)
+(50,50)LLRRRLLLLRRLLRRLLRRRLLLL. | (50,50)LLRRRLLLLRRRLLL. | (50,50)LLRRRLLLRRRLLLL.
+![](./imgs/Rails/(50,50)LLRRRLLLLRRLLRRLLRRRLLLL.bmp) | ![](./imgs/Rails/(50,50)LLRRRLLLLRRRLLL.bmp) | ![](./imgs/Rails/(50,50)LLRRRLLLRRRLLLL.bmp)
+(50,50)LLRRRLLLRRRLLLLL. | (50,50)RNLLRLLLLRLLNR. | (50,50)RRLLLRLLLRRR.
+![](./imgs/Rails/(50,50)LLRRRLLLRRRLLLLL.bmp) | ![](./imgs/Rails/(50,50)RNLLRLLLLRLLNR.bmp) | ![](./imgs/Rails/(50,50)RRLLLRLLLRRR.bmp)
+(50,50)RRLRLLRRRRLL. | (50,50)RRRRLRRRRLL. | 
+![](./imgs/Rails/(50,50)RRLRLLRRRRLL.bmp) | ![](./imgs/Rails/(50,50)RRRRLRRRRLL.bmp) | ![]()
+
 
 #### ./imgs/_R_BLfamily
-<div float="left">
-<p>
-<img src="./imgs/_R_BLfamily/(50,50)RBL.bmp"width="200"/>
-<span>(50,50)RBL.</span>
-</p>
-<p>
-<img src="./imgs/_R_BLfamily/(50,50)RRBL.bmp"width="200"/>
-<span>(50,50)RRBL.</span>
-</p>
-<p>
-<img src="./imgs/_R_BLfamily/(50,50)RRRBL.bmp"width="200"/>
-<span>(50,50)RRRBL.</span>
-</p>
-<p>
-<img src="./imgs/_R_BLfamily/(50,50)RRRRBL.bmp"width="200"/>
-<span>(50,50)RRRRBL.</span>
-</p>
-<p>
-<img src="./imgs/_R_BLfamily/(50,50)RRRRRBL.bmp"width="200"/>
-<span>(50,50)RRRRRBL.</span>
-</p>
-<p>
-<img src="./imgs/_R_BLfamily/(50,50)RRRRRRBL.bmp"width="200"/>
-<span>(50,50)RRRRRRBL.</span>
-</p>
-<p>
-<img src="./imgs/_R_BLfamily/(50,50)RRRRRRRBL.bmp"width="200"/>
-<span>(50,50)RRRRRRRBL.</span>
-</p>
-<p>
-<img src="./imgs/_R_BLfamily/(50,50)RRRRRRRRBL.bmp"width="200"/>
-<span>(50,50)RRRRRRRRBL.</span>
-</p>
-<p>
-<img src="./imgs/_R_BLfamily/(50,50)RRRRRRRRRBL.bmp"width="200"/>
-<span>(50,50)RRRRRRRRRBL.</span>
-</p>
-<p>
-<img src="./imgs/_R_BLfamily/(50,50)RRRRRRRRRRBL.bmp"width="200"/>
-<span>(50,50)RRRRRRRRRRBL.</span>
-</p>
-<p>
-<img src="./imgs/_R_BLfamily/(50,50)RRRRRRRRRRRBL.bmp"width="200"/>
-<span>(50,50)RRRRRRRRRRRBL.</span>
-</p>
-</div>
+./imgs/_R_BLfamily|----|-----
+:-----------:|:--:|:----
+(50,50)RBL. | (50,50)RRBL. | (50,50)RRRBL.
+![](./imgs/_R_BLfamily/(50,50)RBL.bmp) | ![](./imgs/_R_BLfamily/(50,50)RRBL.bmp) | ![](./imgs/_R_BLfamily/(50,50)RRRBL.bmp)
+(50,50)RRRRBL. | (50,50)RRRRRBL. | (50,50)RRRRRRBL.
+![](./imgs/_R_BLfamily/(50,50)RRRRBL.bmp) | ![](./imgs/_R_BLfamily/(50,50)RRRRRBL.bmp) | ![](./imgs/_R_BLfamily/(50,50)RRRRRRBL.bmp)
+(50,50)RRRRRRRBL. | (50,50)RRRRRRRRBL. | (50,50)RRRRRRRRRBL.
+![](./imgs/_R_BLfamily/(50,50)RRRRRRRBL.bmp) | ![](./imgs/_R_BLfamily/(50,50)RRRRRRRRBL.bmp) | ![](./imgs/_R_BLfamily/(50,50)RRRRRRRRRBL.bmp)
+(50,50)RRRRRRRRRRBL. | (50,50)RRRRRRRRRRRBL. | 
+![](./imgs/_R_BLfamily/(50,50)RRRRRRRRRRBL.bmp) | ![](./imgs/_R_BLfamily/(50,50)RRRRRRRRRRRBL.bmp) | ![]()
+
 

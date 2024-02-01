@@ -22,17 +22,24 @@ writeRec arq = do
 writeGroup :: String -> [String] -> String
 writeGroup gName imgs = 
     "#### " ++ gName ++ 
-    "\n<div float=\"left\">\n" ++
-     concat (writeImgCell <$> imgs) ++
-    "</div>\n\n"
+    "\n"++gName++"|----|-----\n" ++
+    ":-----------:|:--:|:----\n" ++
+     concat (writeImgCell <$> sepGroups imgs) ++
+    "\n\n"
 
-writeImgCell :: String -> String
-writeImgCell path = 
-      "<p>\n"
-    ++"<img src=\""++path++"\"width=\"200\"/>\n"
-    ++"<span>"++rule++"</span>\n"
-    ++"</p>\n"
-    where rule = reverse $ takeWhile (/= '/') $ dropWhile (/= '.') $ reverse path
+sepGroups :: [String] -> [(String,String,String)]
+sepGroups [] = []
+sepGroups (x:[]) = [(x,"","")]
+sepGroups (x:y:[]) = [(x,y,"")]
+sepGroups (x:y:z:xs) = (x,y,z) : sepGroups xs
+
+writeImgCell :: (String,String,String) -> String
+writeImgCell (a1,a2,a3) = 
+    rule a1 ++ " | " ++ rule a2 ++ " | " ++ rule a3 ++"\n" ++
+    cell a1 ++ " | " ++ cell a2 ++ " | " ++ cell a3 ++"\n"
+    where 
+        rule = reverse . takeWhile (/= '/') . dropWhile (/= '.') . reverse
+        cell x = "![]("++x++")"
 
 filterImgsDirs :: [String] -> ([String],[String])
 filterImgsDirs = partition isImg 
