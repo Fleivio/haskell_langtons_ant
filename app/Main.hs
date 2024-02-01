@@ -404,7 +404,3 @@ main = do
   let lim = read $ args !! 0
       rule = args !! 1
   run lim rule
-
-
-[[{0L1}{1R1}][{1N0}{1N1}]]
-[[{0N1}{0L1}][{1R0}{0N1}]]
