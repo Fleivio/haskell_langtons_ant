@@ -307,12 +307,6 @@ type ColorPalette = Word8 -> PixelRGB8
 tupleToPix :: (Pixel8, Pixel8, Pixel8) -> PixelRGB8
 tupleToPix (r, g, b) = PixelRGB8 r g b
 
-pixelBlack :: PixelRGB8
-pixelBlack = tupleToPix (0, 0, 0)
-
-black :: ColorPalette
-black = const pixelBlack
-
 dracula :: ColorPalette
 dracula =
   List.genericIndex
@@ -332,6 +326,9 @@ dracula =
 
 mono :: ColorPalette
 mono = List.genericIndex $ tupleToPix . (\x -> (x, x, x)) <$> cycle [0,2 ..]
+
+mono2 :: ColorPalette
+mono2 = List.genericIndex $ tupleToPix . (\x -> (x, x, x)) <$> cycle [0,20 ..]
 
 ---[Images]-----------------------------------------------------
 arrToImg :: ColorPalette -> ExtArr -> Image PixelRGB8
@@ -390,17 +387,23 @@ runnerGloss cpl col0 total =
     window = Gloss.InWindow "Cum" (size, size) (10, 10)
 
 ---------------------------------------------------------------
-run :: Int -> String -> IO ()
-run lim rule = do
+run :: Int -> String -> ColorPalette -> String -> IO ()
+run lim rule cpl path = do
   let as = parseAnts' rule
       col = Colony as (mkArr 100) 0
   col2 <- runnerBar col lim
-  writeBMP dracula rule (view tape col2)
+  writeBMP cpl path (view tape col2)
 
 main :: IO ()
 main = do
   args <- getArgs
   print args
-  let lim = read $ args !! 0
-      rule = args !! 1
-  run lim rule
+  let lim = max 100 (read $ head args)
+      rule = filter (/= ' ') $ args !! 1
+      path = if length args >= 3
+             then args!!2
+             else rule
+      cpl = if length args >= 4
+            then [dracula, mono, mono2]!!read (args!!3)
+            else dracula
+  run lim rule cpl path
