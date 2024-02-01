@@ -1,11 +1,11 @@
 #### ./imgs
 ./imgs|----|-----
-:-----------:|:--:|:----
+:-----------:|:--:|:----:
 
 
 #### ./imgs/LLRRLLRR_RRLL_family
 ./imgs/LLRRLLRR_RRLL_family|----|-----
-:-----------:|:--:|:----
+:-----------:|:--:|:----:
 (50,50)LLRRLLRRRRLL. | (50,50)LLRRLLRRRRLLRRLL. | (50,50)LLRRLLRRRRLLRRLLRRLL.
 ![](./imgs/LLRRLLRR_RRLL_family/(50,50)LLRRLLRRRRLL.bmp) | ![](./imgs/LLRRLLRR_RRLL_family/(50,50)LLRRLLRRRRLLRRLL.bmp) | ![](./imgs/LLRRLLRR_RRLL_family/(50,50)LLRRLLRRRRLLRRLLRRLL.bmp)
 (50,50)LLRRLLRRRRLLRRLLRRLLRRLL. |  | 
@@ -14,7 +14,7 @@
 
 #### ./imgs/LL_R_LLfamily
 ./imgs/LL_R_LLfamily|----|-----
-:-----------:|:--:|:----
+:-----------:|:--:|:----:
 (50,50)LLRLL. | (50,50)LLRRLL. | (50,50)LLRRRLL.
 ![](./imgs/LL_R_LLfamily/(50,50)LLRLL.bmp) | ![](./imgs/LL_R_LLfamily/(50,50)LLRRLL.bmp) | ![](./imgs/LL_R_LLfamily/(50,50)LLRRRLL.bmp)
 (50,50)LLRRRRLL. | (50,50)LLRRRRRLL. | (50,50)LLRRRRRRLL.
@@ -25,7 +25,7 @@
 
 #### ./imgs/LRLLL_R_LRLLfamily
 ./imgs/LRLLL_R_LRLLfamily|----|-----
-:-----------:|:--:|:----
+:-----------:|:--:|:----:
 (50,50)LRLLLRLRLL. | (50,50)LRLLLRRLRLL. | (50,50)LRLLLRRRLRLL.
 ![](./imgs/LRLLL_R_LRLLfamily/(50,50)LRLLLRLRLL.bmp) | ![](./imgs/LRLLL_R_LRLLfamily/(50,50)LRLLLRRLRLL.bmp) | ![](./imgs/LRLLL_R_LRLLfamily/(50,50)LRLLLRRRLRLL.bmp)
 (50,50)LRLLLRRRRLRLL. | (50,50)LRLLLRRRRRLRLL. | (50,50)LRLLLRRRRRRLRLL.
@@ -36,7 +36,7 @@
 
 #### ./imgs/LRRLLLRLRLRR_L_family
 ./imgs/LRRLLLRLRLRR_L_family|----|-----
-:-----------:|:--:|:----
+:-----------:|:--:|:----:
 (50,50)LRRLLLRLRLRRL. | (50,50)LRRLLLRLRLRRLL. | (50,50)LRRLLLRLRLRRLLL.
 ![](./imgs/LRRLLLRLRLRR_L_family/(50,50)LRRLLLRLRLRRL.bmp) | ![](./imgs/LRRLLLRLRLRR_L_family/(50,50)LRRLLLRLRLRRLL.bmp) | ![](./imgs/LRRLLLRLRLRR_L_family/(50,50)LRRLLLRLRLRRLLL.bmp)
 (50,50)LRRLLLRLRLRRLLLL. | (50,50)LRRLLLRLRLRRLLLLL. | (50,50)LRRLLLRLRLRRLLLLLL.
@@ -45,7 +45,7 @@
 
 #### ./imgs/L_R_LLRRLRLfamily
 ./imgs/L_R_LLRRLRLfamily|----|-----
-:-----------:|:--:|:----
+:-----------:|:--:|:----:
 (50,50)LRLLRRLRL. | (50,50)LRRLLRRLRL. | (50,50)LRRRLLRRLRL.
 ![](./imgs/L_R_LLRRLRLfamily/(50,50)LRLLRRLRL.bmp) | ![](./imgs/L_R_LLRRLRLfamily/(50,50)LRRLLRRLRL.bmp) | ![](./imgs/L_R_LLRRLRLfamily/(50,50)LRRRLLRRLRL.bmp)
 (50,50)LRRRRLLRRLRL. | (50,50)LRRRRRLLRRLRL. | (50,50)LRRRRRRLLRRLRL.
@@ -58,7 +58,7 @@
 
 #### ./imgs/L_R_LLRfamily
 ./imgs/L_R_LLRfamily|----|-----
-:-----------:|:--:|:----
+:-----------:|:--:|:----:
 (50,50)LRLLR. | (50,50)LRRLLR. | (50,50)LRRRLLR.
 ![](./imgs/L_R_LLRfamily/(50,50)LRLLR.bmp) | ![](./imgs/L_R_LLRfamily/(50,50)LRRLLR.bmp) | ![](./imgs/L_R_LLRfamily/(50,50)LRRRLLR.bmp)
 (50,50)LRRRRLLR. | (50,50)LRRRRRLLR. | (50,50)LRRRRRRLLR.
@@ -71,7 +71,7 @@
 
 #### ./imgs/L_R_Lfamily
 ./imgs/L_R_Lfamily|----|-----
-:-----------:|:--:|:----
+:-----------:|:--:|:----:
 (50,50)LRL. | (50,50)LRRL. | (50,50)LRRRL.
 ![](./imgs/L_R_Lfamily/(50,50)LRL.bmp) | ![](./imgs/L_R_Lfamily/(50,50)LRRL.bmp) | ![](./imgs/L_R_Lfamily/(50,50)LRRRL.bmp)
 (50,50)LRRRRL. | (50,50)LRRRRRL. | (50,50)LRRRRRRL.
@@ -82,28 +82,36 @@
 
 #### ./imgs/Multiples
 ./imgs/Multiples|----|-----
-:-----------:|:--:|:----
+:-----------:|:--:|:----:
 (10,50)LRRL(50,50)LLRRLL. | (10,50)LRRL(90,50)LRRL. | (10,50)LRRL(90,50)RLLR.
 ![](./imgs/Multiples/(10,50)LRRL(50,50)LLRRLL.bmp) | ![](./imgs/Multiples/(10,50)LRRL(90,50)LRRL.bmp) | ![](./imgs/Multiples/(10,50)LRRL(90,50)RLLR.bmp)
-(10,50)RLLR(50,50)RLLLLRRRLLL. | (45,50)LLRLL(55,50)RRLRR. | (45,50)LLRLRLL(55,50)RRLRLRR.
-![](./imgs/Multiples/(10,50)RLLR(50,50)RLLLLRRRLLL.bmp) | ![](./imgs/Multiples/(45,50)LLRLL(55,50)RRLRR.bmp) | ![](./imgs/Multiples/(45,50)LLRLRLL(55,50)RRLRLRR.bmp)
-(45,50)LLRRRRLL(55,50)RRLLLLRR. | (45,50)LRRRRL(55,50)RLLLLR. | (45,50)LRRRRRL(55,50)RLLLLLR.
-![](./imgs/Multiples/(45,50)LLRRRRLL(55,50)RRLLLLRR.bmp) | ![](./imgs/Multiples/(45,50)LRRRRL(55,50)RLLLLR.bmp) | ![](./imgs/Multiples/(45,50)LRRRRRL(55,50)RLLLLLR.bmp)
-(45,50)RLL(55,50)LRR. | (45,50)RLLLLL(55,50)LRRRRR. | (45,50)RLLLLRRRLLL(55,50)LRRRRLLLRRR.
-![](./imgs/Multiples/(45,50)RLL(55,50)LRR.bmp) | ![](./imgs/Multiples/(45,50)RLLLLL(55,50)LRRRRR.bmp) | ![](./imgs/Multiples/(45,50)RLLLLRRRLLL(55,50)LRRRRLLLRRR.bmp)
-(45,50)RLLLRRR(55,50)LRRRLLL. | (45,50)RLLLRRRL(55,50)LRRRLLLR. | (45,50)RLLLRRRLL(55,50)LRRRLLLRR.
-![](./imgs/Multiples/(45,50)RLLLRRR(55,50)LRRRLLL.bmp) | ![](./imgs/Multiples/(45,50)RLLLRRRL(55,50)LRRRLLLR.bmp) | ![](./imgs/Multiples/(45,50)RLLLRRRLL(55,50)LRRRLLLRR.bmp)
-(45,50)RLLLRRRLLL(55,50)LRRRLLLRRR. | (45,50)RLLRRR(55,50)LRRLLL. | (45,50)RLNLR(55,50)LRNRL.
-![](./imgs/Multiples/(45,50)RLLLRRRLLL(55,50)LRRRLLLRRR.bmp) | ![](./imgs/Multiples/(45,50)RLLRRR(55,50)LRRLLL.bmp) | ![](./imgs/Multiples/(45,50)RLNLR(55,50)LRNRL.bmp)
-(45,50)RRBRR(55,50)LLBLL. | (45,50)RRRRLLLLLLLL(55,50)LLLLRRRRRRRR. | (50,50)LRRL(50,50)RBL.
-![](./imgs/Multiples/(45,50)RRBRR(55,50)LLBLL.bmp) | ![](./imgs/Multiples/(45,50)RRRRLLLLLLLL(55,50)LLLLRRRRRRRR.bmp) | ![](./imgs/Multiples/(50,50)LRRL(50,50)RBL.bmp)
-Butterfly(45,50)LLRLLRLL(55,50)RRLRRLRR. | Moth(45,50)LLRLL(55,50)RRLRR. | Penis(45,50)RRRRLLLLLL(55,50)LLLLRRRRR.
-![](./imgs/Multiples/Butterfly(45,50)LLRLLRLL(55,50)RRLRRLRR.bmp) | ![](./imgs/Multiples/Moth(45,50)LLRLL(55,50)RRLRR.bmp) | ![](./imgs/Multiples/Penis(45,50)RRRRLLLLLL(55,50)LLLLRRRRR.bmp)
+(10,50)RLLR(50,50)RLLLLRRRLLL. | (10,50)RLLR(90,50)LRRL. | (20,50)RLLR(80,50)LRRL.
+![](./imgs/Multiples/(10,50)RLLR(50,50)RLLLLRRRLLL.bmp) | ![](./imgs/Multiples/(10,50)RLLR(90,50)LRRL.bmp) | ![](./imgs/Multiples/(20,50)RLLR(80,50)LRRL.bmp)
+(30,50)RLLR(70,50)LRRL. | (33,50)RBBBN(70,50)LBBBN. | (33,50)RBBBNN(70,50)LBBBNN.
+![](./imgs/Multiples/(30,50)RLLR(70,50)LRRL.bmp) | ![](./imgs/Multiples/(33,50)RBBBN(70,50)LBBBN.bmp) | ![](./imgs/Multiples/(33,50)RBBBNN(70,50)LBBBNN.bmp)
+(33,50)RLLLR(70,50)LRRRL. | (33,50)RLLR(70,50)RLRL. | (40,50)RLLR(60,50)LRRL.
+![](./imgs/Multiples/(33,50)RLLLR(70,50)LRRRL.bmp) | ![](./imgs/Multiples/(33,50)RLLR(70,50)RLRL.bmp) | ![](./imgs/Multiples/(40,50)RLLR(60,50)LRRL.bmp)
+(40,50)RRLRLL(60,50)LLRLRR. | (40,50)RRLRR(60,50)LLRLL. | (45,50)LLRLL(55,50)RRLRR.
+![](./imgs/Multiples/(40,50)RRLRLL(60,50)LLRLRR.bmp) | ![](./imgs/Multiples/(40,50)RRLRR(60,50)LLRLL.bmp) | ![](./imgs/Multiples/(45,50)LLRLL(55,50)RRLRR.bmp)
+(45,50)LLRLRLL(55,50)RRLRLRR. | (45,50)LLRRRRLL(55,50)RRLLLLRR. | (45,50)LRRRRL(55,50)RLLLLR.
+![](./imgs/Multiples/(45,50)LLRLRLL(55,50)RRLRLRR.bmp) | ![](./imgs/Multiples/(45,50)LLRRRRLL(55,50)RRLLLLRR.bmp) | ![](./imgs/Multiples/(45,50)LRRRRL(55,50)RLLLLR.bmp)
+(45,50)LRRRRRL(55,50)RLLLLLR. | (45,50)RLL(55,50)LRR. | (45,50)RLLLLL(55,50)LRRRRR.
+![](./imgs/Multiples/(45,50)LRRRRRL(55,50)RLLLLLR.bmp) | ![](./imgs/Multiples/(45,50)RLL(55,50)LRR.bmp) | ![](./imgs/Multiples/(45,50)RLLLLL(55,50)LRRRRR.bmp)
+(45,50)RLLLLRRRLLL(55,50)LRRRRLLLRRR. | (45,50)RLLLRRR(55,50)LRRRLLL. | (45,50)RLLLRRRL(55,50)LRRRLLLR.
+![](./imgs/Multiples/(45,50)RLLLLRRRLLL(55,50)LRRRRLLLRRR.bmp) | ![](./imgs/Multiples/(45,50)RLLLRRR(55,50)LRRRLLL.bmp) | ![](./imgs/Multiples/(45,50)RLLLRRRL(55,50)LRRRLLLR.bmp)
+(45,50)RLLLRRRLL(55,50)LRRRLLLRR. | (45,50)RLLLRRRLLL(55,50)LRRRLLLRRR. | (45,50)RLLRRR(55,50)LRRLLL.
+![](./imgs/Multiples/(45,50)RLLLRRRLL(55,50)LRRRLLLRR.bmp) | ![](./imgs/Multiples/(45,50)RLLLRRRLLL(55,50)LRRRLLLRRR.bmp) | ![](./imgs/Multiples/(45,50)RLLRRR(55,50)LRRLLL.bmp)
+(45,50)RLNLR(55,50)LRNRL. | (45,50)RRBRR(55,50)LLBLL. | (45,50)RRRRLLLLLLLL(55,50)LLLLRRRRRRRR.
+![](./imgs/Multiples/(45,50)RLNLR(55,50)LRNRL.bmp) | ![](./imgs/Multiples/(45,50)RRBRR(55,50)LLBLL.bmp) | ![](./imgs/Multiples/(45,50)RRRRLLLLLLLL(55,50)LLLLRRRRRRRR.bmp)
+(50,50)LRRL(50,50)RBL. | Butterfly(45,50)LLRLLRLL(55,50)RRLRRLRR. | Ladder(33,50)RBBL(70,50)LBBR.
+![](./imgs/Multiples/(50,50)LRRL(50,50)RBL.bmp) | ![](./imgs/Multiples/Butterfly(45,50)LLRLLRLL(55,50)RRLRRLRR.bmp) | ![](./imgs/Multiples/Ladder(33,50)RBBL(70,50)LBBR.bmp)
+Moth(45,50)LLRLL(55,50)RRLRR. | Penis(45,50)RRRRLLLLLL(55,50)LLLLRRRRR. | SkullMoth(45,50)LRRR(55,50)RLLL.
+![](./imgs/Multiples/Moth(45,50)LLRLL(55,50)RRLRR.bmp) | ![](./imgs/Multiples/Penis(45,50)RRRRLLLLLL(55,50)LLLLRRRRR.bmp) | ![](./imgs/Multiples/SkullMoth(45,50)LRRR(55,50)RLLL.bmp)
 
 
 #### ./imgs/RLRL_R_LLfamily
 ./imgs/RLRL_R_LLfamily|----|-----
-:-----------:|:--:|:----
+:-----------:|:--:|:----:
 (50,50)RLRLRLL. | (50,50)RLRLRRLL. | (50,50)RLRLRRRLL.
 ![](./imgs/RLRL_R_LLfamily/(50,50)RLRLRLL.bmp) | ![](./imgs/RLRL_R_LLfamily/(50,50)RLRLRRLL.bmp) | ![](./imgs/RLRL_R_LLfamily/(50,50)RLRLRRRLL.bmp)
 (50,50)RLRLRRRRLL. | (50,50)RLRLRRRRRLL. | (50,50)RLRLRRRRRRLL.
@@ -114,7 +122,7 @@ Butterfly(45,50)LLRLLRLL(55,50)RRLRRLRR. | Moth(45,50)LLRLL(55,50)RRLRR. | Penis
 
 #### ./imgs/RRLLLR_L_family
 ./imgs/RRLLLR_L_family|----|-----
-:-----------:|:--:|:----
+:-----------:|:--:|:----:
 (50,50)RRLLLRL. | (50,50)RRLLLRLL. | (50,50)RRLLLRLLL.
 ![](./imgs/RRLLLR_L_family/(50,50)RRLLLRL.bmp) | ![](./imgs/RRLLLR_L_family/(50,50)RRLLLRLL.bmp) | ![](./imgs/RRLLLR_L_family/(50,50)RRLLLRLLL.bmp)
 (50,50)RRLLLRLLLL. | (50,50)RRLLLRLLLLL. | (50,50)RRLLLRLLLLLL.
@@ -123,7 +131,7 @@ Butterfly(45,50)LLRLLRLL(55,50)RRLRRLRR. | Moth(45,50)LLRLL(55,50)RRLRR. | Penis
 
 #### ./imgs/RRLRRRRLL_R_family
 ./imgs/RRLRRRRLL_R_family|----|-----
-:-----------:|:--:|:----
+:-----------:|:--:|:----:
 (50,50)RRLRRRRLLR. | (50,50)RRLRRRRLLRR. | (50,50)RRLRRRRLLRRR.
 ![](./imgs/RRLRRRRLL_R_family/(50,50)RRLRRRRLLR.bmp) | ![](./imgs/RRLRRRRLL_R_family/(50,50)RRLRRRRLLRR.bmp) | ![](./imgs/RRLRRRRLL_R_family/(50,50)RRLRRRRLLRRR.bmp)
 (50,50)RRLRRRRLLRRRR. | (50,50)RRLRRRRLLRRRRR. | (50,50)RRLRRRRLLRRRRRR.
@@ -138,7 +146,7 @@ Butterfly(45,50)LLRLLRLL(55,50)RRLRRLRR. | Moth(45,50)LLRLL(55,50)RRLRR. | Penis
 
 #### ./imgs/RRL_L_family
 ./imgs/RRL_L_family|----|-----
-:-----------:|:--:|:----
+:-----------:|:--:|:----:
 (50,50)RRLL. | (50,50)RRLLL. | (50,50)RRLLLL.
 ![](./imgs/RRL_L_family/(50,50)RRLL.bmp) | ![](./imgs/RRL_L_family/(50,50)RRLLL.bmp) | ![](./imgs/RRL_L_family/(50,50)RRLLLL.bmp)
 (50,50)RRLLLLL. | (50,50)RRLLLLLL. | 
@@ -147,7 +155,7 @@ Butterfly(45,50)LLRLLRLL(55,50)RRLRRLRR. | Moth(45,50)LLRLL(55,50)RRLRR. | Penis
 
 #### ./imgs/RRL_R_LLLRRRRRLLfamily
 ./imgs/RRL_R_LLLRRRRRLLfamily|----|-----
-:-----------:|:--:|:----
+:-----------:|:--:|:----:
 (50,50)RRLRLLLRRRRRLL. | (50,50)RRLRRLLLRRRRRLLL. | (50,50)RRLRRRLLLRRRRRLLL.
 ![](./imgs/RRL_R_LLLRRRRRLLfamily/(50,50)RRLRLLLRRRRRLL.bmp) | ![](./imgs/RRL_R_LLLRRRRRLLfamily/(50,50)RRLRRLLLRRRRRLLL.bmp) | ![](./imgs/RRL_R_LLLRRRRRLLfamily/(50,50)RRLRRRLLLRRRRRLLL.bmp)
 (50,50)RRLRRRRLLLRRRRRLLL. | (50,50)RRLRRRRRLLLRRRRRLLL. | (50,50)RRLRRRRRRLLLRRRRRLLL.
@@ -156,7 +164,7 @@ Butterfly(45,50)LLRLLRLL(55,50)RRLRRLRR. | Moth(45,50)LLRLL(55,50)RRLRR. | Penis
 
 #### ./imgs/RRRRLLL_L_family
 ./imgs/RRRRLLL_L_family|----|-----
-:-----------:|:--:|:----
+:-----------:|:--:|:----:
 (50,50)RRRRLLLL. | (50,50)RRRRLLLLL. | (50,50)RRRRLLLLLL.
 ![](./imgs/RRRRLLL_L_family/(50,50)RRRRLLLL.bmp) | ![](./imgs/RRRRLLL_L_family/(50,50)RRRRLLLLL.bmp) | ![](./imgs/RRRRLLL_L_family/(50,50)RRRRLLLLLL.bmp)
 (50,50)RRRRLLLLLLL. | (50,50)RRRRLLLLLLLL. | (50,50)RRRRLLLLLLLLL.
@@ -167,7 +175,7 @@ Butterfly(45,50)LLRLLRLL(55,50)RRLRRLRR. | Moth(45,50)LLRLL(55,50)RRLRR. | Penis
 
 #### ./imgs/R_L_RRRLLLfamily
 ./imgs/R_L_RRRLLLfamily|----|-----
-:-----------:|:--:|:----
+:-----------:|:--:|:----:
 (50,50)RLLLLLRRRLLL. | (50,50)RLLLLRRRLLL. | (50,50)RLLLRRRLLL.
 ![](./imgs/R_L_RRRLLLfamily/(50,50)RLLLLLRRRLLL.bmp) | ![](./imgs/R_L_RRRLLLfamily/(50,50)RLLLLRRRLLL.bmp) | ![](./imgs/R_L_RRRLLLfamily/(50,50)RLLLRRRLLL.bmp)
 (50,50)RLLRRRLLL. | (50,50)RLRRRLLL. | 
@@ -176,7 +184,7 @@ Butterfly(45,50)LLRLLRLL(55,50)RRLRRLRR. | Moth(45,50)LLRLL(55,50)RRLRR. | Penis
 
 #### ./imgs/Rails
 ./imgs/Rails|----|-----
-:-----------:|:--:|:----
+:-----------:|:--:|:----:
 (50,50)LLBRLL. | (50,50)LLBRLRBLL. | (50,50)LLRLRLLLRLLLLL.
 ![](./imgs/Rails/(50,50)LLBRLL.bmp) | ![](./imgs/Rails/(50,50)LLBRLRBLL.bmp) | ![](./imgs/Rails/(50,50)LLRLRLLLRLLLLL.bmp)
 (50,50)LLRRRLLLLRRLLRRLLRRRLLLL. | (50,50)LLRRRLLLLRRRLLL. | (50,50)LLRRRLLLRRRLLLL.
@@ -187,9 +195,32 @@ Butterfly(45,50)LLRLLRLL(55,50)RRLRRLRR. | Moth(45,50)LLRLL(55,50)RRLRR. | Penis
 ![](./imgs/Rails/(50,50)RRLRLLRRRRLL.bmp) | ![](./imgs/Rails/(50,50)RRRRLRRRRLL.bmp) | ![]()
 
 
+#### ./imgs/Turmites
+./imgs/Turmites|----|-----
+:-----------:|:--:|:----:
+(50,50)[[{0L1}{1R1}][{1N0}{1N1}]]. | (50,50)[[{0N1}{0L1}][{1R0}{0N1}]]. | (50,50)[[{0R1}{0L0}][{1L1}{0R0}]].
+![](./imgs/Turmites/(50,50)[[{0L1}{1R1}][{1N0}{1N1}]].bmp) | ![](./imgs/Turmites/(50,50)[[{0N1}{0L1}][{1R0}{0N1}]].bmp) | ![](./imgs/Turmites/(50,50)[[{0R1}{0L0}][{1L1}{0R0}]].bmp)
+(50,50)[[{0R1}{0L0}][{1L1}{1N0}]]. | (50,50)[[{0R1}{0N1}][{1R1}{1L0}]]. | (50,50)[[{0R1}{0R1}][{1N0}{0R1}]].
+![](./imgs/Turmites/(50,50)[[{0R1}{0L0}][{1L1}{1N0}]].bmp) | ![](./imgs/Turmites/(50,50)[[{0R1}{0N1}][{1R1}{1L0}]].bmp) | ![](./imgs/Turmites/(50,50)[[{0R1}{0R1}][{1N0}{0R1}]].bmp)
+(50,50)[[{0R1}{1R1}][{0L2}{0L0}][{1R2}{1L0}]]. | (50,50)[[{0R1}{1R1}][{1L1}{1L0}]]. | (50,50)[[{1L0}{0R1}][{1R0}{0L1}]].
+![](./imgs/Turmites/(50,50)[[{0R1}{1R1}][{0L2}{0L0}][{1R2}{1L0}]].bmp) | ![](./imgs/Turmites/(50,50)[[{0R1}{1R1}][{1L1}{1L0}]].bmp) | ![](./imgs/Turmites/(50,50)[[{1L0}{0R1}][{1R0}{0L1}]].bmp)
+(50,50)[[{1L0}{1R1}][{0R0}{0L1}]]. | (50,50)[[{1L1}{0L1}][{1R1}{0L0}]]. | (50,50)[[{1L1}{0N0}][{1N0}{1R0}]].
+![](./imgs/Turmites/(50,50)[[{1L0}{1R1}][{0R0}{0L1}]].bmp) | ![](./imgs/Turmites/(50,50)[[{1L1}{0L1}][{1R1}{0L0}]].bmp) | ![](./imgs/Turmites/(50,50)[[{1L1}{0N0}][{1N0}{1R0}]].bmp)
+(50,50)[[{1L1}{0R0}][{0L0}{0L0}]]. | (50,50)[[{1L1}{1L1}][{1N0}{0N2}][{0L1}{1N1}]]. | (50,50)[[{1L1}{1L1}][{1R1}{0N0}]].
+![](./imgs/Turmites/(50,50)[[{1L1}{0R0}][{0L0}{0L0}]].bmp) | ![](./imgs/Turmites/(50,50)[[{1L1}{1L1}][{1N0}{0N2}][{0L1}{1N1}]].bmp) | ![](./imgs/Turmites/(50,50)[[{1L1}{1L1}][{1R1}{0N0}]].bmp)
+(50,50)[[{1L1}{1R1}][{1N0}{0N1}]]. | (50,50)[[{1N1}{0N0}][{0R0}{1L0}]]. | (50,50)[[{1N1}{0N1}][{1R1}{0N0}]].
+![](./imgs/Turmites/(50,50)[[{1L1}{1R1}][{1N0}{0N1}]].bmp) | ![](./imgs/Turmites/(50,50)[[{1N1}{0N0}][{0R0}{1L0}]].bmp) | ![](./imgs/Turmites/(50,50)[[{1N1}{0N1}][{1R1}{0N0}]].bmp)
+(50,50)[[{1N1}{0R0}][{0L0}{0L0}]]. | (50,50)[[{1N1}{1L0}][{1R1}{0N0}]]. | (50,50)[[{1R0}{0L1}][{1L0}{0N1}]].
+![](./imgs/Turmites/(50,50)[[{1N1}{0R0}][{0L0}{0L0}]].bmp) | ![](./imgs/Turmites/(50,50)[[{1N1}{1L0}][{1R1}{0N0}]].bmp) | ![](./imgs/Turmites/(50,50)[[{1R0}{0L1}][{1L0}{0N1}]].bmp)
+(50,50)[[{1R0}{1R1}][{0N0}{0N1}]]. | (50,50)[[{1R1}{0L1}][{1N0}{0N0}]]. | (50,50)[[{1R1}{0R0}][{0N0}{1R1}]].
+![](./imgs/Turmites/(50,50)[[{1R0}{1R1}][{0N0}{0N1}]].bmp) | ![](./imgs/Turmites/(50,50)[[{1R1}{0L1}][{1N0}{0N0}]].bmp) | ![](./imgs/Turmites/(50,50)[[{1R1}{0R0}][{0N0}{1R1}]].bmp)
+(50,50)[[{1R1}{1L1}][{1R1}{0R0}]]. | (50,50)[[{1R1}{1R1}][{1L1}{0R0}]]. | 
+![](./imgs/Turmites/(50,50)[[{1R1}{1L1}][{1R1}{0R0}]].bmp) | ![](./imgs/Turmites/(50,50)[[{1R1}{1R1}][{1L1}{0R0}]].bmp) | ![]()
+
+
 #### ./imgs/_R_BLfamily
 ./imgs/_R_BLfamily|----|-----
-:-----------:|:--:|:----
+:-----------:|:--:|:----:
 (50,50)RBL. | (50,50)RRBL. | (50,50)RRRBL.
 ![](./imgs/_R_BLfamily/(50,50)RBL.bmp) | ![](./imgs/_R_BLfamily/(50,50)RRBL.bmp) | ![](./imgs/_R_BLfamily/(50,50)RRRBL.bmp)
 (50,50)RRRRBL. | (50,50)RRRRRBL. | (50,50)RRRRRRBL.

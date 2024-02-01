@@ -23,7 +23,7 @@ writeGroup :: String -> [String] -> String
 writeGroup gName imgs = 
     "#### " ++ gName ++ 
     "\n"++gName++"|----|-----\n" ++
-    ":-----------:|:--:|:----\n" ++
+    ":-----------:|:--:|:----:\n" ++
      concat (writeImgCell <$> sepGroups imgs) ++
     "\n\n"
 

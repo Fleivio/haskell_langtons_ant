@@ -1,13 +1,14 @@
 {-# LANGUAGE LambdaCase, TemplateHaskell, BangPatterns, TupleSections #-}
+{-# OPTIONS_GHC -Wno-unused-do-bind #-}
 
 import Debug.Trace
 
-import System.Environment
 import Data.Array.Base
 import qualified Data.List as List (genericIndex, isSuffixOf)
 import qualified Data.List.Split as Split (chunksOf)
 import Data.Maybe
 import Data.Word
+import System.Environment
 import Text.Parsec
 import Text.Parsec.String (Parser)
 
@@ -23,7 +24,7 @@ import qualified Graphics.Gloss as Gloss
 
 ---[Defines]---------------------------------------------
 extendingAmount :: Int
-extendingAmount = 100
+extendingAmount = 50
 
 emptyElement :: Word8
 emptyElement = 0
@@ -174,9 +175,8 @@ antPerform arr a =
         (const id, killAnt) `fromMaybe` lookup (inp, a ^. stateid) (a ^. trset)
    in (pwriter (a ^. point), stepNflip a)
 
----[Ant Parser]------------------------------------------------------
-mkTransitions :: [Rotation] -> TrSet
-mkTransitions = run 0
+mkLangtonTrs :: [Rotation] -> TrSet
+mkLangtonTrs = run 0
   where
     buildTr r rd wrt = ((rd, 0), (flip writeArr wrt, antStep . antFlip r))
     run i =
@@ -185,6 +185,14 @@ mkTransitions = run 0
         [r] -> [buildTr r i 0]
         (r:rs) -> buildTr r i (i + 1) : run (i + 1) rs
 
+mkTurmiteTrs :: [[(Word8, Rotation, StateId)]] -> TrSet
+mkTurmiteTrs =
+  concatMap (\(stf, rls) -> genTr stf <$> zip [0 ..] rls) . zip [0 ..]
+  where
+    genTr st (n, (w, r, s)) =
+      ((n, st), (flip writeArr w, set stateid s . antStep . antFlip r))
+
+---[Ant Parser]------------------------------------------------------
 parseRotation :: Parser Rotation
 parseRotation =
   choice
@@ -201,10 +209,38 @@ parsePoint = do
   char ','
   y <- many1 digit
   char ')'
-  return (Point (read x) (read y))
+  return (read x `Point` read y)
+
+trimSuffix :: String -> String -> String
+trimSuffix suffix str
+  | suffix `List.isSuffixOf` str = take (length str - length suffix) str
+  | otherwise = str
+
+parseTrips :: Parser [(Word8, Rotation, StateId)]
+parseTrips = do
+  char '['
+  trips <- many parseTrip
+  char ']'
+  pure trips
+
+parseTrip :: ParsecT String () Identity (Word8, Rotation, StateId)
+parseTrip = do
+  char '{'
+  d <- digit
+  r <- parseRotation
+  s <- digit
+  char '}'
+  return (read [d], r, read [s])
 
 parseAnt :: Parser Ant
-parseAnt = parseLangton
+parseAnt = do
+  total <- getInput
+  p <- parsePoint
+  quasiAnt <-
+    choice [parseTurmite, parseLangton]
+  rest <- getInput
+  let rule = trimSuffix rest total
+  return $ quasiAnt rule p
 
 parseAnts :: Parser [Ant]
 parseAnts = do
@@ -213,23 +249,22 @@ parseAnts = do
   return ants
 
 parseAnts' :: String -> [Ant]
-parseAnts' s = case parse parseAnts "" s of
-  Left _   -> error "parse error"
-  Right as -> as 
+parseAnts' s =
+  case parse parseAnts "" s of
+    Left err -> error $ show err
+    Right as -> as
 
-trimSuffix :: String -> String -> String
-trimSuffix suffix str
-  | suffix `List.isSuffixOf` str = take (length str - length suffix) str
-  | otherwise = str
+parseTurmite :: Parser (String -> Point -> Ant)
+parseTurmite = do
+  char '['
+  trset <- mkTurmiteTrs <$> many parseTrips
+  char ']'
+  return (\r p -> Ant r U 0 p False trset)
 
-parseLangton :: Parser Ant
+parseLangton :: Parser (String -> Point -> Ant)
 parseLangton = do
-  total <- getInput
-  p <- parsePoint
-  trset <- mkTransitions <$> many parseRotation
-  rest <- getInput
-  let rule = trimSuffix rest total
-  return $ Ant rule U 0 p False trset
+  trset <- mkLangtonTrs <$> many parseRotation
+  return (\r p -> Ant r U 0 p False trset)
 
 ---[Colony]----------------------------------------------------------
 data Colony = Colony
@@ -305,7 +340,8 @@ arrToImg cpl arr = generateImage getPx (extSize arr) (extSize arr)
     getPx x y = cpl (arr ! fromCoord arr (Point x y))
 
 writeBMP :: ColorPalette -> FilePath -> ExtArr -> IO ()
-writeBMP cpl path arr = writeBitmap (imageDir++path++".bmp") (arrToImg cpl arr)
+writeBMP cpl path arr =
+  writeBitmap (imageDir ++ path ++ ".bmp") (arrToImg cpl arr)
 
 ---[Gloss]------------------------------------------------------
 toGlossPic :: ColorPalette -> ExtArr -> Gloss.Picture
@@ -359,12 +395,16 @@ run lim rule = do
   let as = parseAnts' rule
       col = Colony as (mkArr 100) 0
   col2 <- runnerBar col lim
-  writeBMP dracula rule (view tape col2) 
+  writeBMP dracula rule (view tape col2)
 
 main :: IO ()
-main = do 
+main = do
   args <- getArgs
   print args
-  let lim = read $ args!!0
-      rule = args!!1
+  let lim = read $ args !! 0
+      rule = args !! 1
   run lim rule
+
+
+[[{0L1}{1R1}][{1N0}{1N1}]]
+[[{0N1}{0L1}][{1R0}{0N1}]]
