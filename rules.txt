@@ -1,0 +1,42 @@
+------------------------------
+run:
+cabal run . -- iterations_limit ants [path (default = rule)]
+
+------------------------------
+ants:
+- every ant starts with a point
+
+ex:
+(50,50)rule
+
+rule:
+
+Langton:
+- single state machine
+- internally stores a direction to move at every step taken
+
+ex: RLLR
+- if read color0, rotate R
+- if read color1, rotate L 
+- if read color2, rotate L 
+- if read color3, rotate R
+- else halt
+
+Turmite:
+- n-state machine
+- also has a direction
+
+ex: 
+[
+[{1N1}{0N1}]
+[{0R2}{1L2}]
+[{1B0}{1B0}] 
+]
+- rows are states
+- columns are colors
+- if read color 1 at state 2 (last grid cell)
+  then write color1, rotate backwards and set state to 0
+
+- you can concatenate multiple ants
+ex: 
+cabal run . -- 1000 "(50,50)RLLR (60,70)LRRL (10,20)[[{1N1}{0N1}][{0R2}{1L2}]]"

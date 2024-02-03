@@ -1,8 +1,6 @@
 #### ./imgs
 ./imgs|----|-----
 :-----------:|:--:|:----:
-a. |  | 
-![](./imgs/a.bmp) | ![]() | ![]()
 
 
 #### ./imgs/01Turmites
@@ -14,20 +12,28 @@ a. |  |
 ![](./imgs/01Turmites/(50,50)[[{0R1}{0L0}][{1L1}{1N0}]].bmp) | ![](./imgs/01Turmites/(50,50)[[{0R1}{0N1}][{1R1}{1L0}]].bmp) | ![](./imgs/01Turmites/(50,50)[[{0R1}{0R1}][{1N0}{0R1}]].bmp)
 (50,50)[[{0R1}{1R1}][{0L2}{0L0}][{1R2}{1L0}]]. | (50,50)[[{0R1}{1R1}][{1L1}{1L0}]]. | (50,50)[[{1B1}{1L1}][{1N0}{0N2}][{0L1}{1N1}]].
 ![](./imgs/01Turmites/(50,50)[[{0R1}{1R1}][{0L2}{0L0}][{1R2}{1L0}]].bmp) | ![](./imgs/01Turmites/(50,50)[[{0R1}{1R1}][{1L1}{1L0}]].bmp) | ![](./imgs/01Turmites/(50,50)[[{1B1}{1L1}][{1N0}{0N2}][{0L1}{1N1}]].bmp)
-(50,50)[[{1L0}{0R1}][{1R0}{0L1}]]. | (50,50)[[{1L0}{1R1}][{0R0}{0L1}]]. | (50,50)[[{1L0}{2R0}{3R0}{0L1}][{0R1}{0L0}{1L1}{0R1}]].
-![](./imgs/01Turmites/(50,50)[[{1L0}{0R1}][{1R0}{0L1}]].bmp) | ![](./imgs/01Turmites/(50,50)[[{1L0}{1R1}][{0R0}{0L1}]].bmp) | ![](./imgs/01Turmites/(50,50)[[{1L0}{2R0}{3R0}{0L1}][{0R1}{0L0}{1L1}{0R1}]].bmp)
-(50,50)[[{1L0}{2R0}{3R0}{0L1}][{1R1}{2L1}{3L1}{0R0}]]. | (50,50)[[{1L1}{0L1}][{1R1}{0L0}]]. | (50,50)[[{1L1}{0N0}][{1N0}{1R0}]].
-![](./imgs/01Turmites/(50,50)[[{1L0}{2R0}{3R0}{0L1}][{1R1}{2L1}{3L1}{0R0}]].bmp) | ![](./imgs/01Turmites/(50,50)[[{1L1}{0L1}][{1R1}{0L0}]].bmp) | ![](./imgs/01Turmites/(50,50)[[{1L1}{0N0}][{1N0}{1R0}]].bmp)
-(50,50)[[{1L1}{0R0}][{0L0}{0L0}]]. | (50,50)[[{1L1}{1L1}][{1N0}{0N2}][{0L1}{1N1}]]. | (50,50)[[{1L1}{1L1}][{1R1}{0N0}]].
-![](./imgs/01Turmites/(50,50)[[{1L1}{0R0}][{0L0}{0L0}]].bmp) | ![](./imgs/01Turmites/(50,50)[[{1L1}{1L1}][{1N0}{0N2}][{0L1}{1N1}]].bmp) | ![](./imgs/01Turmites/(50,50)[[{1L1}{1L1}][{1R1}{0N0}]].bmp)
+(50,50)[[{1B1}{1R1}][{1L0}{0L2}][{0L1}{1R1}]]. | (50,50)[[{1L0}{0R1}][{1R0}{0L1}]]. | (50,50)[[{1L0}{1R1}][{0R0}{0L1}]].
+![](./imgs/01Turmites/(50,50)[[{1B1}{1R1}][{1L0}{0L2}][{0L1}{1R1}]].bmp) | ![](./imgs/01Turmites/(50,50)[[{1L0}{0R1}][{1R0}{0L1}]].bmp) | ![](./imgs/01Turmites/(50,50)[[{1L0}{1R1}][{0R0}{0L1}]].bmp)
+(50,50)[[{1L0}{2R0}{3R0}{0L1}][{0R1}{0L0}{1L1}{0R1}]]. | (50,50)[[{1L0}{2R0}{3R0}{0L1}][{1R1}{2L1}{3L1}{0R0}]]. | (50,50)[[{1L1}{0L1}][{1R1}{0L0}]].
+![](./imgs/01Turmites/(50,50)[[{1L0}{2R0}{3R0}{0L1}][{0R1}{0L0}{1L1}{0R1}]].bmp) | ![](./imgs/01Turmites/(50,50)[[{1L0}{2R0}{3R0}{0L1}][{1R1}{2L1}{3L1}{0R0}]].bmp) | ![](./imgs/01Turmites/(50,50)[[{1L1}{0L1}][{1R1}{0L0}]].bmp)
+(50,50)[[{1L1}{0N0}][{1N0}{1R0}]]. | (50,50)[[{1L1}{0R0}][{0L0}{0L0}]]. | (50,50)[[{1L1}{1L1}][{1N0}{0N2}][{0L1}{1N1}]].
+![](./imgs/01Turmites/(50,50)[[{1L1}{0N0}][{1N0}{1R0}]].bmp) | ![](./imgs/01Turmites/(50,50)[[{1L1}{0R0}][{0L0}{0L0}]].bmp) | ![](./imgs/01Turmites/(50,50)[[{1L1}{1L1}][{1N0}{0N2}][{0L1}{1N1}]].bmp)
+(50,50)[[{1L1}{1L1}][{1R1}{0N0}]]. | (50,50)[[{1L1}{1N1}][{1N0}{0N2}][{0L1}{1N1}]]. | (50,50)[[{1L1}{1R1}][{1B0}{1N2}][{0L1}{1N1}]].
+![](./imgs/01Turmites/(50,50)[[{1L1}{1L1}][{1R1}{0N0}]].bmp) | ![](./imgs/01Turmites/(50,50)[[{1L1}{1N1}][{1N0}{0N2}][{0L1}{1N1}]].bmp) | ![](./imgs/01Turmites/(50,50)[[{1L1}{1R1}][{1B0}{1N2}][{0L1}{1N1}]].bmp)
 (50,50)[[{1L1}{1R1}][{1N0}{0N1}]]. | (50,50)[[{1N1}{0N0}][{0R0}{1L0}]]. | (50,50)[[{1N1}{0N1}][{1R1}{0N0}]].
 ![](./imgs/01Turmites/(50,50)[[{1L1}{1R1}][{1N0}{0N1}]].bmp) | ![](./imgs/01Turmites/(50,50)[[{1N1}{0N0}][{0R0}{1L0}]].bmp) | ![](./imgs/01Turmites/(50,50)[[{1N1}{0N1}][{1R1}{0N0}]].bmp)
-(50,50)[[{1N1}{0R0}][{0L0}{0L0}]]. | (50,50)[[{1N1}{1L0}][{1R1}{0N0}]]. | (50,50)[[{1N1}{1N1}][{1L0}{0R1}]].
-![](./imgs/01Turmites/(50,50)[[{1N1}{0R0}][{0L0}{0L0}]].bmp) | ![](./imgs/01Turmites/(50,50)[[{1N1}{1L0}][{1R1}{0N0}]].bmp) | ![](./imgs/01Turmites/(50,50)[[{1N1}{1N1}][{1L0}{0R1}]].bmp)
-(50,50)[[{1R0}{0L1}][{1L0}{0N1}]]. | (50,50)[[{1R0}{1R1}][{0N0}{0N1}]]. | (50,50)[[{1R1}{0L1}][{1N0}{0N0}]].
-![](./imgs/01Turmites/(50,50)[[{1R0}{0L1}][{1L0}{0N1}]].bmp) | ![](./imgs/01Turmites/(50,50)[[{1R0}{1R1}][{0N0}{0N1}]].bmp) | ![](./imgs/01Turmites/(50,50)[[{1R1}{0L1}][{1N0}{0N0}]].bmp)
-(50,50)[[{1R1}{0R0}][{0N0}{1R1}]]. | (50,50)[[{1R1}{1L1}][{1R1}{0R0}]]. | (50,50)[[{1R1}{1R1}][{1L1}{0R0}]].
-![](./imgs/01Turmites/(50,50)[[{1R1}{0R0}][{0N0}{1R1}]].bmp) | ![](./imgs/01Turmites/(50,50)[[{1R1}{1L1}][{1R1}{0R0}]].bmp) | ![](./imgs/01Turmites/(50,50)[[{1R1}{1R1}][{1L1}{0R0}]].bmp)
+(50,50)[[{1N1}{0R0}][{0L0}{0L0}]]. | (50,50)[[{1N1}{1L0}][{0R2}{1R2}][{1L3}{0L3}][{0R4}{1R4}][{1R1}{0N0}]]. | (50,50)[[{1N1}{1L0}][{1R1}{0N0}]].
+![](./imgs/01Turmites/(50,50)[[{1N1}{0R0}][{0L0}{0L0}]].bmp) | ![](./imgs/01Turmites/(50,50)[[{1N1}{1L0}][{0R2}{1R2}][{1L3}{0L3}][{0R4}{1R4}][{1R1}{0N0}]].bmp) | ![](./imgs/01Turmites/(50,50)[[{1N1}{1L0}][{1R1}{0N0}]].bmp)
+(50,50)[[{1N1}{1N1}][{1L0}{0R1}]]. | (50,50)[[{1N2}{0N1}][{0N2}{1N2}][{1L2}{0L0}]]. | (50,50)[[{1R0}{0L1}][{1L0}{0N1}]].
+![](./imgs/01Turmites/(50,50)[[{1N1}{1N1}][{1L0}{0R1}]].bmp) | ![](./imgs/01Turmites/(50,50)[[{1N2}{0N1}][{0N2}{1N2}][{1L2}{0L0}]].bmp) | ![](./imgs/01Turmites/(50,50)[[{1R0}{0L1}][{1L0}{0N1}]].bmp)
+(50,50)[[{1R0}{1R1}][{0N0}{0N1}]]. | (50,50)[[{1R1}{0L1}][{1N0}{0N0}]]. | (50,50)[[{1R1}{0R0}][{0N0}{1R1}]].
+![](./imgs/01Turmites/(50,50)[[{1R0}{1R1}][{0N0}{0N1}]].bmp) | ![](./imgs/01Turmites/(50,50)[[{1R1}{0L1}][{1N0}{0N0}]].bmp) | ![](./imgs/01Turmites/(50,50)[[{1R1}{0R0}][{0N0}{1R1}]].bmp)
+(50,50)[[{1R1}{1L1}][{1N2}{0N0}][{0L1}{1L1}]]. | (50,50)[[{1R1}{1L1}][{1N2}{0N0}][{0L1}{1R1}]]. | (50,50)[[{1R1}{1L1}][{1R1}{0R0}]].
+![](./imgs/01Turmites/(50,50)[[{1R1}{1L1}][{1N2}{0N0}][{0L1}{1L1}]].bmp) | ![](./imgs/01Turmites/(50,50)[[{1R1}{1L1}][{1N2}{0N0}][{0L1}{1R1}]].bmp) | ![](./imgs/01Turmites/(50,50)[[{1R1}{1L1}][{1R1}{0R0}]].bmp)
+(50,50)[[{1R1}{1R1}][{1L1}{0R0}]]. | (50,50)[[{2B1}{0N1}{1L1}][{0N0}{2B2}{1N2}][{0L1}{1N1}{2B1}]]. | (50,50)[[{2L1}{0R1}{1N1}][{1N0}{2B2}{0N2}][{2L1}{2N1}{1R1}]].
+![](./imgs/01Turmites/(50,50)[[{1R1}{1R1}][{1L1}{0R0}]].bmp) | ![](./imgs/01Turmites/(50,50)[[{2B1}{0N1}{1L1}][{0N0}{2B2}{1N2}][{0L1}{1N1}{2B1}]].bmp) | ![](./imgs/01Turmites/(50,50)[[{2L1}{0R1}{1N1}][{1N0}{2B2}{0N2}][{2L1}{2N1}{1R1}]].bmp)
+(50,50)[[{2R1}{0R1}{0L1}][{1N0}{0N3}{0N0}][{1L3}{2L3}{1R3}][{2L1}{0R1}{1L1}]]. |  | 
+![](./imgs/01Turmites/(50,50)[[{2R1}{0R1}{0L1}][{1N0}{0N3}{0N0}][{1L3}{2L3}{1R3}][{2L1}{0R1}{1L1}]].bmp) | ![]() | ![]()
 
 
 #### ./imgs/EvenSequences
@@ -172,6 +178,15 @@ Penis(45,50)RRRRLLLLLL(55,50)LLLLRRRRR. | SkullMoth(45,50)LRRR(55,50)RLLL. |
 ![](./imgs/PrimeSequences/(50,50)LLRRR.bmp) | ![](./imgs/PrimeSequences/(50,50)LLRRRLLLLL.bmp) | ![](./imgs/PrimeSequences/(50,50)LLRRRLLLLLRRRRRRR.bmp)
 (50,50)LLRRRLLLLLRRRRRRRLLLLLLLLLLL. | (50,50)LLRRRLLLLLRRRRRRRLLLLLLLLLLLRRRRRRRRRRRRR. | (50,50)LLRRRLLLLLRRRRRRRLLLLLLLLLLLRRRRRRRRRRRRRLLLLLLLLLLLLLLLLL.
 ![](./imgs/PrimeSequences/(50,50)LLRRRLLLLLRRRRRRRLLLLLLLLLLL.bmp) | ![](./imgs/PrimeSequences/(50,50)LLRRRLLLLLRRRRRRRLLLLLLLLLLLRRRRRRRRRRRRR.bmp) | ![](./imgs/PrimeSequences/(50,50)LLRRRLLLLLRRRRRRRLLLLLLLLLLLRRRRRRRRRRRRRLLLLLLLLLLLLLLLLL.bmp)
+
+
+#### ./imgs/RLLR_NNNN_family
+./imgs/RLLR_NNNN_family|----|-----
+:-----------:|:--:|:----:
+(50,50)RLLRNNNN. | (50,50)RLLRNNNNNNNN. | (50,50)RLLRNNNNNNNNNNNN.
+![](./imgs/RLLR_NNNN_family/(50,50)RLLRNNNN.bmp) | ![](./imgs/RLLR_NNNN_family/(50,50)RLLRNNNNNNNN.bmp) | ![](./imgs/RLLR_NNNN_family/(50,50)RLLRNNNNNNNNNNNN.bmp)
+(50,50)RLLRNNNNNNNNNNNNNNNN. | (50,50)RLLRNNNNNNNNNNNNNNNNNNNN. | LRRL 14NNN MONO.
+![](./imgs/RLLR_NNNN_family/(50,50)RLLRNNNNNNNNNNNNNNNN.bmp) | ![](./imgs/RLLR_NNNN_family/(50,50)RLLRNNNNNNNNNNNNNNNNNNNN.bmp) | ![](./imgs/RLLR_NNNN_family/LRRL 14NNN MONO.bmp)
 
 
 #### ./imgs/RLRL_R_LLfamily

@@ -30,7 +30,7 @@ emptyElement :: Word8
 emptyElement = 0
 
 imageDir :: String
-imageDir = "./imgs/"
+imageDir = "./"
 
 ---[Rotation]---------------------------------------------
 data Direction
@@ -394,12 +394,12 @@ run lim rule cpl path = do
   col2 <- runnerBar col lim
   writeBMP cpl path (view tape col2)
 
-main :: IO ()
-main = do
+readArgs :: IO()
+readArgs = do
   args <- getArgs
   print args
   let lim = max 100 (read $ head args)
-      rule = filter (/= ' ') $ args !! 1
+      rule = filter (\n -> n /= ' ' && n /= '\n') $ args !! 1
       path = if length args >= 3
              then args!!2
              else rule
@@ -407,3 +407,6 @@ main = do
             then [dracula, mono, mono2]!!read (args!!3)
             else dracula
   run lim rule cpl path
+
+main :: IO ()
+main = readArgs 
