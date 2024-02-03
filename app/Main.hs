@@ -330,6 +330,9 @@ mono = List.genericIndex $ tupleToPix . (\x -> (x, x, x)) <$> cycle [0,2 ..]
 mono2 :: ColorPalette
 mono2 = List.genericIndex $ tupleToPix . (\x -> (x, x, x)) <$> cycle [0,20 ..]
 
+dual :: ColorPalette
+dual =  tupleToPix . (\x -> (x, x, x)) . (\b -> if b then 0 else 255) . even
+
 ---[Images]-----------------------------------------------------
 arrToImg :: ColorPalette -> ExtArr -> Image PixelRGB8
 arrToImg cpl arr = generateImage getPx (extSize arr) (extSize arr)
@@ -390,7 +393,7 @@ runnerGloss cpl col0 total =
 run :: Int -> String -> ColorPalette -> String -> IO ()
 run lim rule cpl path = do
   let as = parseAnts' rule
-      col = Colony as (mkArr 100) 0
+      col = Colony as (mkArr 50) 0
   col2 <- runnerBar col lim
   writeBMP cpl path (view tape col2)
 
@@ -404,7 +407,7 @@ readArgs = do
              then args!!2
              else rule
       cpl = if length args >= 4
-            then [dracula, mono, mono2]!!read (args!!3)
+            then [dracula, mono, mono2, dual]!!read (args!!3)
             else dracula
   run lim rule cpl path
 
