@@ -1,42 +1,44 @@
 ------------------------------
 run:
-cabal run . -- iterations_limit ants [path (default = rule)]
+cabal run . -- <mode> <iterations_limit> <ants> <path> <color_palette>
 
 ------------------------------
-ants:
-- every ant starts with a point
+mode: "gloss" | "bmp"
 
-ex:
-(50,50)rule
+- gloss will render the automata in a window
+- bmp will save the automata as a bmp file
 
-rule:
+------------------------------
+iterations_limit: Int
 
-Langton:
-- single state machine
-- internally stores a direction to move at every step taken
+- the number of iterations the automata will run
+- When running in gloss mode, the automata will run indefinitely, but will use the iterations_limit to determine the number of iterations to run each frame
 
-ex: RLLR
-- if read color0, rotate R
-- if read color1, rotate L 
-- if read color2, rotate L 
-- if read color3, rotate R
-- else halt
+------------------------------
+ants: String
 
-Turmite:
-- n-state machine
-- also has a direction
+- a string that contains the initial position and rules for each ant
+(<point_x:Int>, <point_y:Int>)<rule:String>
 
-ex: 
-[
-[{1N1}{0N1}]
-[{0R2}{1L2}]
-[{1B0}{1B0}] 
-]
-- rows are states
-- columns are colors
-- if read color 1 at state 2 (last grid cell)
-  then write color1, rotate backwards and set state to 0
+- the rule can define a Langton or Turmite automata:
+  - Langton: <rule:String>
+    A Lanton automata is defined by a single rule that defines the behavior of the ant
+    ex: "RLLR", "RRLRRRLLLLL"
+  - Turmite: <table:String>
+    A Turmite automata is defined by a table that defines the behavior of the ant
+    ex: "[[{1N1}{0N1}][{0R2}{1L2}]]", "[[{1N1}{0N1}][{0R2}{1L2}][{1B0}{1B0}]]"
 
-- you can concatenate multiple ants
-ex: 
-cabal run . -- 1000 "(50,50)RLLR (60,70)LRRL (10,20)[[{1N1}{0N1}][{0R2}{1L2}]]"
+
+- you can also concatenate multiple ants
+ex: "(50,50)RLLR (60,70)LRRL (10,20)[[{1N1}{0N1}][{0R2}{1L2}]]"
+
+------------------------------
+path: String
+
+- the path where the bmp file will be saved
+- ignored when running in gloss mode
+
+------------------------------
+color_palette: "dracula" | "mono" | "mono2" | "dual"
+
+- the color palette to be used when rendering the automata

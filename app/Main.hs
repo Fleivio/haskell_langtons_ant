@@ -1,13 +1,13 @@
 {-# LANGUAGE LambdaCase, TemplateHaskell, BangPatterns, TupleSections #-}
 {-# OPTIONS_GHC -Wno-unused-do-bind #-}
-
-import Debug.Trace
+{-# OPTIONS_GHC -Wno-incomplete-patterns #-}
 
 import Data.Array.Base
 import qualified Data.List as List (genericIndex, isSuffixOf)
 import qualified Data.List.Split as Split (chunksOf)
 import Data.Maybe
 import Data.Word
+import qualified Data.List as DL
 import System.Environment
 import Text.Parsec
 import Text.Parsec.String (Parser)
@@ -397,19 +397,28 @@ run lim rule cpl path = do
   col2 <- runnerBar col lim
   writeBMP cpl path (view tape col2)
 
+runGloss :: Int -> String -> ColorPalette -> IO ()
+runGloss lim rule cpl = do
+  let as = parseAnts' rule
+      col = Colony as (mkArr 50) 0
+  runnerGloss cpl col lim
+
 readArgs :: IO()
 readArgs = do
   args <- getArgs
   print args
-  let lim = max 100 (read $ head args)
-      rule = filter (\n -> n /= ' ' && n /= '\n') $ args !! 1
-      path = if length args >= 3
-             then args!!2
-             else rule
-      cpl = if length args >= 4
-            then [dracula, mono, mono2, dual]!!read (args!!3)
-            else dracula
-  run lim rule cpl path
+  let mode = fromMaybe "gloss" $ args DL.!? 0
+      lim = max 100 (read $ fromMaybe "1" $ args DL.!? 1)
+      rule = filter (\n -> n /= ' ' && n /= '\n') $ fromMaybe "(50,50)RLR" $ args DL.!? 2
+      path = fromMaybe rule $ args DL.!? 3
+      cpl = case fromMaybe "dracula" $ args DL.!? 4 of
+              "dracula" -> dracula
+              "mono" -> mono
+              "mono2" -> mono2
+              "dual" -> dual
+  if mode == "gloss" 
+    then runGloss lim rule cpl
+    else run lim rule cpl path
 
 main :: IO ()
 main = readArgs 
